@@ -1,0 +1,62 @@
+[
+    {
+        "q": "MENANAM : MENUAI = _____ : _____",
+        "opts": [
+            "Makan : Kenyang",
+            "Minum : Penuh",
+            "Mencontek : Menghukum",
+            "Menyakiti : Menangis",
+            "Karya tulis : Jiplak"
+        ],
+        "answer": "Makan : Kenyang",
+        "explanation": "Hubungan dalam soal ini adalah hubungan sebab-akibat atau urutan kejadian. Setelah melakukan tindakan 'Menanam', maka kita akan mendapatkan hasil yaitu 'Menuai'. Analogi yang paling tepat dan memiliki pola yang sama adalah 'Makan : Kenyang', karena setelah melakukan tindakan 'Makan', maka kita akan mendapatkan hasil yaitu 'Kenyang'.<br><br><b>Analisis Pilihan Jawaban:</b><br>1. <b>Makan : Kenyang.</b> Hubungan yang sejajar karena kenyang adalah hasil langsung dari makan (Sebab-Akibat).<br>2. <b>Minum : Penuh.</b> Kurang tepat karena 'penuh' biasanya merujuk pada wadah, bukan kondisi fisik subjek yang memadai seperti 'kenyang'.<br>3. <b>Mencontek : Menghukum.</b> Hubungan ini kurang tepat karena pelakunya berbeda (seseorang mencontek, orang lain menghukum).<br>4. <b>Menyakiti : Menangis.</b> Menangis adalah reaksi emosional, namun tidak sekuat hubungan sebab-akibat 'makan-kenyang'.<br>5. <b>Karya tulis : Jiplak.</b> Ini adalah hubungan objek dan tindakan negatif, bukan sebab-akibat dari sebuah proses.<br><br><b>Jawaban yang paling tepat adalah: Makan : Kenyang.</b>"
+    },
+    {
+        "q": "KARDIOLOGI : JANTUNG = _____ : _____",
+        "opts": [
+            "Bakteriologi : Bakteri",
+            "Obat-obatan : Farmakologi",
+            "Ternologi : Termin",
+            "Akutansi : Dagang",
+            "Phatologi : Peta"
+        ],
+        "answer": "Bakteriologi : Bakteri",
+        "explanation": "Hubungan dalam soal ini adalah bidang ilmu dan objek yang dipelajarinya. Kardiologi adalah cabang ilmu kedokteran yang secara spesifik mempelajari tentang jantung. Analogi yang paling tepat dan memiliki pola yang sama adalah 'Bakteriologi : Bakteri', karena Bakteriologi adalah cabang ilmu biologi yang mempelajari tentang bakteri.<br><br><b>Analisis Pilihan Jawaban:</b><br>1. <b>Bakteriologi : Bakteri.</b> Sangat tepat karena mengikuti pola [Bidang Ilmu] : [Objek yang Dipelajari].<br>2. <b>Obat-obatan : Farmakologi.</b> Terbalik, polanya menjadi [Objek] : [Bidang Ilmu]. Selain itu, Farmakologi seharusnya berada di posisi pertama jika ingin setara dengan Kardiologi.<br>3. <b>Ternologi : Termin.</b> Tidak memiliki hubungan bidang ilmu dan objek yang valid.<br>4. <b>Akutansi : Dagang.</b> Akuntansi adalah sistem pencatatan transaksi keuangan, bukan ilmu yang mempelajari 'dagang' sebagai objek biologis atau medis.<br>5. <b>Phatologi : Peta.</b> Hubungan yang salah. Patologi adalah ilmu yang mempelajari penyakit, bukan peta (ilmu tentang peta adalah Kartografi).<br><br><b>Jawaban yang paling tepat adalah: Bakteriologi : Bakteri.</b>"
+    },
+    {
+        "q": "SUHU : CELCIUS = _____ : _____",
+        "opts": [
+            "Termo : Suhu",
+            "Api : Kebakaran",
+            "Banjir : Air",
+            "Gempa : Richter",
+            "Dosis : Obat"
+        ],
+        "answer": "Gempa : Richter",
+        "explanation": "Hubungan dalam soal ini adalah besaran dan satuan ukur atau skalanya. Suhu adalah sesuatu yang diukur, dan Celcius adalah salah satu satuan atau skala pengukurnya. Analogi yang paling tepat dan memiliki pola yang sama adalah 'Gempa : Richter', karena Gempa adalah fenomena yang diukur kekuatannya, dan Richter adalah skala pengukurnya.<br><br><b>Analisis Pilihan Jawaban:</b><br>1. <b>Termo : Suhu.</b> Hubungan alat dan objek (Termometer untuk mengukur suhu), namun kata 'Termo' tidak lengkap dan polanya terbalik.<br>2. <b>Api : Kebakaran.</b> Hubungan sebab-akibat, di mana api dapat menyebabkan kebakaran.<br>3. <b>Banjir : Air.</b> Hubungan fenomena dan unsur pembentuknya, bukan hubungan besaran dan skala ukur.<br>4. <b>Gempa : Richter.</b> Sangat tepat karena mengikuti pola [Besaran/Fenomena] : [Skala Ukur].<br>5. <b>Dosis : Obat.</b> Hubungan takaran atau ukuran terhadap suatu benda, bukan fenomena alam dan skala ukurnya.<br><br><b>Jawaban yang paling tepat adalah: Gempa : Richter.</b>"
+    },
+    {
+        "q": "SENDOK : MAKAN = _____ : _____",
+        "opts": [
+            "Buku : Jual",
+            "Sandal : Jepit",
+            "Rambut : Sisir",
+            "Gelas : Minum",
+            "Siswa : Sekolah"
+        ],
+        "answer": "Gelas : Minum",
+        "explanation": "Hubungan dalam soal ini adalah alat dan fungsinya. Sendok adalah alat yang digunakan untuk melakukan aktivitas makan. Analogi yang paling tepat dan memiliki pola yang sama adalah 'Gelas : Minum', karena gelas merupakan alat yang digunakan untuk melakukan aktivitas minum.<br><br><b>Analisis Pilihan Jawaban:</b><br>1. <b>Buku : Jual.</b> Hubungan objek dan tindakan komersial, bukan fungsi utama dari benda tersebut (fungsi buku adalah dibaca/ditulis).<br>2. <b>Sandal : Jepit.</b> Hubungan benda dan jenisnya (sandal jepit), bukan alat dan fungsinya.<br>3. <b>Rambut : Sisir.</b> Terbalik, polanya menjadi [Objek yang dikenai tindakan] : [Alat]. Jika ingin setara, seharusnya Sisir : Menyisir.<br>4. <b>Gelas : Minum.</b> Sangat tepat karena mengikuti pola [Alat] : [Fungsi Utama].<br>5. <b>Siswa : Sekolah.</b> Hubungan subjek dan tempat beraktivitas, bukan alat dan fungsi.<br><br><b>Jawaban yang paling tepat adalah: Gelas : Minum.</b>"
+    },
+    {
+        "q": "CINCIN : JARI = _____ : _____",
+        "opts": [
+            "Bunga : Taman",
+            "Meja : Kursi",
+            "Kalung : Leher",
+            "Kaki : Sepatu",
+            "Obat : Sakit"
+        ],
+        "answer": "Kalung : Leher",
+        "explanation": "Hubungan dalam soal ini adalah benda (perhiasan/aksesoris) dan tempat mengenakannya pada tubuh. Cincin adalah benda yang dipakai di jari. Analogi yang paling tepat dan memiliki pola yang sama adalah 'Kalung : Leher', karena kalung adalah benda yang dipakai di leher.<br><br><b>Analisis Pilihan Jawaban:</b><br>1. <b>Bunga : Taman.</b> Hubungan objek dan tempat berada secara umum, bukan benda yang dikenakan pada anggota tubuh.<br>2. <b>Meja : Kursi.</b> Hubungan pasangan benda yang sering digunakan bersamaan, bukan hubungan letak pemakaian pada tubuh.<br>3. <b>Kalung : Leher.</b> Sangat tepat karena mengikuti pola [Benda/Aksesoris] : [Letak Pemakaian di Tubuh].<br>4. <b>Kaki : Sepatu.</b> Terbalik, polanya menjadi [Anggota Tubuh] : [Benda]. Jika ingin setara, seharusnya Sepatu : Kaki.<br>5. <b>Obat : Sakit.</b> Hubungan benda dan kondisi yang diatasi (Solusi-Masalah), bukan hubungan letak pemakaian.<br><br><b>Jawaban yang paling tepat adalah: Kalung : Leher.</b>"
+    }
+]
