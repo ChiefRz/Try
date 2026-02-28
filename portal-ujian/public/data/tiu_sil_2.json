@@ -1,0 +1,122 @@
+[
+    {
+        "q": "Semua yang berbunga adalah tanaman.<br> Sebagian tanaman warnanya indah.<br> Kesimpulan yang tepat adalah .....",
+        "opts": [
+        "Semua yang berbunga warnanya tidak indah.",
+        "Semua yang warnanya tidak indah adalah tanaman.",
+        "Semua tanaman adalah berbunga.",
+        "Sebagian yang berbunga warnanya tidak indah.",
+        "Semua yang warnanya tidak indah, tidak berbunga."
+        ],
+        "answer": "Sebagian yang berbunga warnanya tidak indah.",
+        "explanation": "Dalam logika silogisme, jika satu premis bersifat partikular (\"sebagian\"), maka kesimpulan harus partikular. <br> Premis 1: Semua Bunga $\\rightarrow$ Tanaman. <br> Premis 2: Sebagian Tanaman $\\rightarrow$ Indah (artinya ada sebagian Tanaman yang TIDAK Indah). <br> Kesimpulan: Karena semua bunga adalah bagian dari tanaman, dan ada sebagian tanaman yang tidak indah, maka secara logis ada kemungkinan sebagian bunga tersebut warnanya tidak indah. "
+    },
+    {
+        "q": "Semua penipu pandai bicara dan ramah.<br> Tuan M tidak ramah, tetapi pandai bicara. Kesimpulan yang tepat adalah .....",
+        "opts": [
+        "Tuan M seorang penipu yang pandai bicara.",
+        "Tuan M seorang penipu yang tidak ramah.",
+        "Tuan M seorang penipu yang pandai bicara dan tidak ramah.",
+        "Tuan M bukan seorang penipu, meskipun pandai bicara.",
+        "Tuan M bukan seorang penipu yang ramah."
+        ],
+        "answer": "Tuan M bukan seorang penipu, meskipun pandai bicara.",
+        "explanation": "Syarat mutlak seseorang dikategorikan sebagai penipu berdasarkan premis adalah harus memenuhi dua sifat sekaligus: pandai bicara DAN ramah (konjungsi). Karena Tuan M tidak memenuhi salah satu syarat (tidak ramah), maka Tuan M dipastikan bukan seorang penipu."
+    },
+    {
+        "q": "Jika Koko tidak menghentikan kebiasaan merokok, maka penyakit jantungnya akan bertambah parah.<br>Jika sakit jantungnya bertambah parah, maka Koko tidak bisa ikut bertanding membela kesebelasan kebanggaan kota A.<br>Koko bertanding membela kesebelasan kota A.<br>Kesimpulan yang benar adalah .....",
+        "opts": [
+        "Sakit jantung Koko tidak parah.",
+        "Koko sudah kebal terhadap nikotin.",
+        "Koko telah mengurangi dosis merokoknya.",
+        "Koko tidak merokok lagi.",
+        "Koko dipaksa bermain oleh pelatihnya."
+        ],
+        "answer": "Koko tidak merokok lagi.",
+        "explanation": "Ini menggunakan metode silogisme hipotetik (Modus Tollens). <br> Premis 1: ~Henti Rokok $\\rightarrow$ Parah. <br> Premis 2: Parah $\\rightarrow$ ~Tanding. <br> Fakta: Koko Tanding. <br> Dari Premis 2: Karena Koko Tanding, maka Jantungnya TIDAK Parah. <br> Dari Premis 1: Karena Jantungnya TIDAK Parah, maka Koko PASTI menghentikan kebiasaan merokoknya (Koko tidak merokok lagi). "
+    },
+    {
+        "q": "Kenny, pemain bulutangkis Klub Jaya, dapat melakukan service forehand dengan baik.<br>Setiap pemain yang bisa melakukan service forehand dengan baik dapat melakukan dropshot akurat.<br>Kesimpulan yang benar adalah .....",
+        "opts": [
+        "Beberapa pemain bulutangkis Klub Jaya dapat melakukan dropshot dengan baik.",
+        "Semua pemain bulutangkis Klub Jaya dapat melakukan service forehand dengan baik dan dropshot yang akurat.",
+        "Beberapa pemain bulutangkis Klub Jaya dapat melakukan service forehand dengan baik dan dropshot yang akurat.",
+        "Beberapa pemain bulutangkis Klub Jaya tidak dapat melakukan service forehand dengan baik tetapi dapat melakukan dropshot yang akurat.",
+        "Semua pemain bulutangkis dapat melakukan service forehand dengan baik dan dropshot yang akurat."
+        ],
+        "answer": "Beberapa pemain bulutangkis Klub Jaya dapat melakukan service forehand dengan baik dan dropshot yang akurat.",
+        "explanation": "Kenny adalah salah satu (individu) anggota Klub Jaya. Dalam logika, satu orang anggota kelompok dapat merepresentasikan kategori \"sebagian\" atau \"beberapa\". Karena Kenny bisa service forehand (yang berimplikasi bisa dropshot), maka setidaknya ada \"beberapa\" (minimal Kenny) pemain di Klub Jaya yang memiliki kemampuan tersebut."
+    },
+    {
+        "q": "Semua pohon bercabang dan berakar.<br> Tanaman A berakar, tetapi tidak bercabang.<br> Kesimpulan yang tepat adalah .....",
+        "opts": [
+        "Tanaman A adalah pohon yang berakar.",
+        "Tanaman A adalah pohon yang tidak bercabang.",
+        "Tanaman A adalah pohon yang berakar dan tidak bercabang.",
+        "Tanaman A adalah pohon bercabang.",
+        "Tanaman A adalah bukan pohon bercabang."
+        ],
+        "answer": "Tanaman A adalah bukan pohon bercabang.",
+        "explanation": "Premis menyatakan bahwa 'Pohon' wajib memiliki cabang DAN akar. Tanaman A hanya memiliki akar dan tidak memiliki cabang. Karena salah satu syarat kumulatif sebagai pohon tidak terpenuhi, maka Tanaman A bukan merupakan pohon."
+    },
+    {
+        "q": "Semua santri pandai berbahasa Arab.<br> Santri yang pandai berbahasa Arab pandai pula berpidato.<br> Sebagian santri yang pandai berpidato tidak suka Matematika.",
+        "opts": [
+        "Sebagian santri tidak suka Matematika dan tidak pandai berbahasa Arab",
+        "Sebagian santri suka Matematika dan pandai berbahasa Arab",
+        "Sebagian santri suka Matematika tetapi tidak pandai berbahasa Arab",
+        "Sebagian santri suka Matematika dan tidak pandai berbahasa Arab",
+        "Sebagian santri suka Matematika tetapi tidak suka berbahasa Arab"
+        ],
+        "answer": "Sebagian santri suka Matematika dan pandai berbahasa Arab",
+        "explanation": "Premis 1 & 2 menyimpulkan bahwa <b>Semua santri pandai berpidato</b>. Premis 3 menyatakan <b>sebagian</b> santri yang pandai berpidato tidak suka Matematika, yang secara logis berarti <b>sebagian lainnya suka Matematika</b>. Karena semua subjek dalam premis adalah santri yang pasti pandai berbahasa Arab, maka kesimpulannya adalah sebagian santri suka Matematika dan tetap pandai berbahasa Arab. "
+    },
+    {
+        "q": "Semua pekerja harus mengenakan topi pengaman. <br>Sementara pekerja mengenakan sarung tangan.",
+        "opts": [
+        "Sementara pekerja tidak mengenakan topi pengaman.",
+        "Semua pekerja tidak mengenakan sarung tangan.",
+        "Sementara pekerja mengenakan topi pengaman dan sarung tangan.",
+        "Sementara pekerja tidak mengenakan topi pengaman dan mengenakan sarung tangan.",
+        "Sementara pekerja tidak mengenakan topi pengaman dan tidak mengenakan sarung tangan."
+        ],
+        "answer": "Sementara pekerja mengenakan topi pengaman dan sarung tangan.",
+        "explanation": "Karena <b>semua</b> pekerja wajib mengenakan topi pengaman, maka kelompok pekerja manapun (termasuk yang 'sementara' mengenakan sarung tangan) pasti juga mengenakan topi pengaman. Jadi, ada sebagian (sementara) pekerja yang mengenakan keduanya sekaligus."
+    },
+    {
+        "q": "Semua anggota asosiasi profesi harus hadir dalam rapat. <br>Sementara dokter adalah anggota asosiasi.",
+        "opts": [
+        "Semua yang hadir dalam rapat adalah dokter",
+        "Semua anggota rapat bukan anggota asosiasi profesi",
+        "Sementara peserta rapat adalah dokter",
+        "Semua dokter hadir dalam rapat",
+        "Semua yang hadir bukan dokter"
+        ],
+        "answer": "Sementara peserta rapat adalah dokter",
+        "explanation": "Diketahui sementara (sebagian) dokter adalah anggota asosiasi, dan semua anggota asosiasi harus hadir. Maka, dokter-dokter yang menjadi anggota asosiasi tersebut dipastikan hadir dalam rapat. Dengan demikian, sementara peserta rapat tersebut adalah dokter."
+    },
+    {
+        "q": "Semua seniman kreatif. <br>Sementara ilmuan tidak kreatif.",
+        "opts": [
+        "Sementara ilmuan bukan seniman",
+        "Tidak ada seniman yang ilmuan",
+        "Sementara individu yang kreatif bukan seniman",
+        "Sementara ilmuan kreatif",
+        "Sementara ilmuan tidak kreatif"
+        ],
+        "answer": "Sementara ilmuan bukan seniman",
+        "explanation": "Karena semua seniman wajib kreatif, sedangkan ada sementara ilmuan yang tidak kreatif, maka ilmuan yang tidak kreatif tersebut dipastikan <b>bukan seniman</b>. Hal ini karena mereka tidak memenuhi syarat mutlak menjadi seniman (yaitu kreatif). "
+    },
+    {
+        "q": "Tidak semua hipotesis penelitian terbukti benar.<br>Sementara penelitian disertasi tidak menguji hipotesis.",
+        "opts": [
+        "Sementara dokter tidak menulis disertasi",
+        "Sementara hipotesis disertasi tidak terbukti",
+        "Semua hipotesis disertasi terbukti benar",
+        "Semua hipotesis penelitian terbukti benar",
+        "Semua dokter, hipotesis disertasinya benar"
+        ],
+        "answer": "Sementara hipotesis disertasi tidak terbukti",
+        "explanation": "Premis pertama menyatakan 'tidak semua' (yang berarti sebagian) hipotesis tidak terbukti benar. Dalam konteks pilihan jawaban yang tersedia, simpulan yang paling logis adalah merujuk pada kemungkinan adanya hipotesis dalam disertasi yang juga tidak terbukti, meskipun premis kedua menyebutkan ada disertasi yang tidak menggunakan hipotesis sama sekali."
+    }
+]

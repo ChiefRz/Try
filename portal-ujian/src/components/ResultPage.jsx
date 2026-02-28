@@ -188,7 +188,7 @@ export default function ResultPage({ examData, answers, resetApp }) {
 
                 {/* Kotak Penjelasan */}
                 <div className="bg-blue-50 border border-blue-100 p-4 rounded-md text-sm mt-4">
-                  <p className="font-bold text-blue-800 mb-2">Penjelasan Bobot & Aspek:</p>
+                  <p className="font-bold text-blue-800 mb-2">Penjelasan:</p>
                   <div 
                     className="text-blue-900 leading-relaxed prose prose-sm max-w-none"
                     dangerouslySetInnerHTML={{ __html: qData.explanation || 'Tidak ada penjelasan tersedia.' }}

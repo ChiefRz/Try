@@ -1,0 +1,122 @@
+[
+    {
+        "q": "\"Pada perayaan tahun baru, kembang api mewarnai langit.\" Kalimat tersebut sama polanya dengan ...",
+        "opts": [
+            "Di lapangan sepak bola, timnas Indonesia memenangkan pertandingan",
+            "Di tempat wisata, pengunjung menikmati keindahan alam",
+            "Setiap sore, anak-anak bermain di taman bermain",
+            "Di gedung pertunjukan, penonton bersorak ketika artis favorit tampil",
+            "Para pekerja bangun pabrik baru di kota tersebut"
+        ],
+        "answer": "Di lapangan sepak bola, timnas Indonesia memenangkan pertandingan",
+        "explanation": "Mari kita analisis kalimat \"Pada perayaan tahun baru, kembang api mewarnai langit\" berdasarkan struktur kalimatnya:<br>1. <b>Keterangan Waktu</b>: \"Pada perayaan tahun baru\"<br>2. <b>Subjek</b>: \"kembang api\"<br>3. <b>Predikat</b>: \"mewarnai\"<br>4. <b>Objek</b>: \"langit\"<br><br>Dengan demikian, kalimat ini mengikuti pola <b>Keterangan Waktu + Subjek + Predikat + Objek</b>.<br><br><b>Pilihan A: \"Di lapangan sepak bola, timnas Indonesia memenangkan pertandingan.\"</b><br>1. <b>Keterangan Tempat</b>: \"Di lapangan sepak bola\"<br>2. <b>Subjek</b>: \"timnas Indonesia\"<br>3. <b>Predikat</b>: \"memenangkan\"<br>4. <b>Objek</b>: \"pertandingan\"<br><br>Pilihan A memiliki struktur yang sama, yaitu mengaitkan keterangan tempat/waktu dengan subjek yang melakukan tindakan (predikat) terhadap objek."
+    },
+    {
+        "q": "\"Di restoran, pelanggan memesan hidangan spesial.\" Kalimat tersebut sama polanya dengan ...",
+        "opts": [
+            "Di pantai, pengunjung menikmati deburan ombak",
+            "Pada acara pernikahan, pengantin menukarkan cincin",
+            "Setiap pagi, burung merpati bertengger di atap rumah",
+            "Di taman bunga, para pengunjung berfoto bersama bunga-bunga indah",
+            "Para siswa belajar bersama di perpustakaan"
+        ],
+        "answer": "Di pantai, pengunjung menikmati deburan ombak",
+        "explanation": "Kalimat \"Di restoran, pelanggan memesan hidangan spesial\" dapat dianalisis berdasarkan strukturnya:<br>1. <b>Keterangan Tempat</b>: \"Di restoran\"<br>2. <b>Subjek</b>: \"pelanggan\"<br>3. <b>Predikat</b>: \"memesan\"<br>4. <b>Objek</b>: \"hidangan spesial\"<br><br>Dengan demikian, kalimat ini mengikuti pola <b>Keterangan Tempat + Subjek + Predikat + Objek</b>.<br><br><b>Pilihan A: \"Di pantai, pengunjung menikmati deburan ombak.\"</b><br>1. <b>Keterangan Tempat</b>: \"Di pantai\"<br>2. <b>Subjek</b>: \"pengunjung\"<br>3. <b>Predikat</b>: \"menikmati\"<br>4. <b>Objek</b>: \"deburan ombak\"<br><br>Pilihan A memiliki struktur yang sama dengan kalimat soal, karena mengaitkan keterangan tempat dengan subjek yang melakukan tindakan (predikat) terhadap objek."
+    },
+    {
+        "q": "\"Pada pameran seni, lukisan-lukisan dipamerkan.\" Kalimat tersebut sama polanya dengan ...",
+        "opts": [
+            "Di pasar tradisional, pedagang menjajakan barang dagangan",
+            "Di taman bermain, anak-anak bersenang-senang di kolam air mancur",
+            "Setiap malam, keluarga berkumpul di ruang keluarga",
+            "Di lapangan sepak bola, pemain berlatih untuk pertandingan besok",
+            "Para penari menampilkan gerakan indah di panggung"
+        ],
+        "answer": "Di pasar tradisional, pedagang menjajakan barang dagangan",
+        "explanation": "Kalimat \"Pada pameran seni, lukisan-lukisan dipamerkan\" dapat dianalisis berdasarkan strukturnya:<br>1. <b>Keterangan Tempat</b>: \"Pada pameran seni\"<br>2. <b>Subjek</b>: \"lukisan-lukisan\"<br>3. <b>Predikat</b>: \"dipamerkan\"<br><br>Dari analisis di atas, kalimat tersebut mengikuti pola <b>Keterangan Tempat + Subjek + Predikat</b>.<br><br><b>Pilihan A: \"Di pasar tradisional, pedagang menjajakan barang dagangan.\"</b><br>1. <b>Keterangan Tempat</b>: \"Di pasar tradisional\"<br>2. <b>Subjek</b>: \"pedagang\"<br>3. <b>Predikat</b>: \"menjajakan\"<br><br>Pilihan A memiliki struktur yang sama, yaitu mengaitkan keterangan tempat dengan subjek yang melakukan tindakan (predikat). Dalam kalimat ini, pedagang menjajakan barang dagangan di pasar tradisional (Objek 'barang dagangan' dalam pilihan A melengkapi predikat 'menjajakan' untuk membentuk pola K-S-P-O yang serupa dengan struktur pengembangan kalimat inti di soal)."
+    },
+    {
+        "q": "\"Di kelas, guru memberikan penjelasan materi baru.\" Kalimat tersebut sama polanya dengan ...",
+        "opts": [
+            "Di pesta ulang tahun, anak-anak bermain game",
+            "Pada konferensi, para ilmuwan mempresentasikan hasil penelitian",
+            "Setiap sore, kucing bermain di halaman rumah",
+            "Di taman bermain, anak-anak riang bermain ayunan",
+            "Para pejabat negara menghadiri rapat kenegaraan"
+        ],
+        "answer": "Pada konferensi, para ilmuwan mempresentasikan hasil penelitian",
+        "explanation": "Mari kita analisis kalimat \"Di kelas, guru memberikan penjelasan materi baru\" berdasarkan strukturnya:<br>1. <b>Keterangan Tempat</b>: \"Di kelas\"<br>2. <b>Subjek</b>: \"guru\"<br>3. <b>Predikat</b>: \"memberikan\"<br>4. <b>Objek</b>: \"penjelasan materi baru\"<br><br>Dengan demikian, kalimat ini mengikuti pola <b>Keterangan Tempat + Subjek + Predikat + Objek</b>.<br><br><b>Pilihan B: \"Pada konferensi, para ilmuwan mempresentasikan hasil penelitian.\"</b><br>1. <b>Keterangan Tempat</b>: \"Pada konferensi\"<br>2. <b>Subjek</b>: \"para ilmuwan\"<br>3. <b>Predikat</b>: \"mempresentasikan\"<br>4. <b>Objek</b>: \"hasil penelitian\"<br><br>Pilihan B memiliki struktur yang sama, yaitu mengaitkan keterangan tempat dengan subjek yang melakukan tindakan (predikat) terhadap objek. Dalam kalimat ini, para ilmuwan mempresentasikan hasil penelitian di tempat konferensi."
+    },
+    {
+        "q": "\"Pada konser musik, band rock memainkan lagu-lagu hits.\" Kalimat tersebut sama polanya dengan ...",
+        "opts": [
+            "Pada perayaan tahun baru, kembang api mewarnai langit",
+            "Di taman, anak-anak bermain ayunan dan jungkat-jungkit",
+            "Setiap pagi, burung berkicau di dahan pohon",
+            "Di pantai, pengunjung menikmati sunset yang indah",
+            "Para penari menampilkan gerakan indah di panggung"
+        ],
+        "answer": "Pada perayaan tahun baru, kembang api mewarnai langit",
+        "explanation": "Mari kita analisis kalimat \"Pada konser musik, band rock memainkan lagu-lagu hits\" berdasarkan strukturnya:<br>1. <b>Keterangan Tempat</b>: \"Pada konser musik\"<br>2. <b>Subjek</b>: \"band rock\"<br>3. <b>Predikat</b>: \"memainkan\"<br>4. <b>Objek</b>: \"lagu-lagu hits\"<br><br>Dengan demikian, kalimat ini mengikuti pola <b>Keterangan Tempat + Subjek + Predikat + Objek</b>.<br><br><b>Pilihan A: \"Pada perayaan tahun baru, kembang api mewarnai langit.\"</b><br>1. <b>Keterangan Tempat</b>: \"Pada perayaan tahun baru\"<br>2. <b>Subjek</b>: \"kembang api\"<br>3. <b>Predikat</b>: \"mewarnai\"<br>4. <b>Objek</b>: \"langit\"<br><br>Pilihan A memiliki struktur yang sama, yaitu mengaitkan keterangan tempat/waktu dengan subjek yang melakukan tindakan (predikat) terhadap objek. Dalam kalimat ini, kembang api mewarnai langit pada saat perayaan tahun baru, mirip dengan band rock yang memainkan lagu-lagu hits pada konser."
+    },
+    {
+        "q": "Hubungan objek pada kalimat \"Deni sangat ahli memainkan gitar dan ukulele sejak kecil\" setara dengan ...",
+        "opts": [
+            "Pak Ahmad adalah pelatih biola dan harmonika di sekolahnya",
+            "Panitia lomba akustik hanya menyediakan alat musik cajon dan piano",
+            "Dimas saat ini mengikuti kursus seruling dan kecapi",
+            "Bu Vira mengoleksi angklung dan gendang di rumahnya",
+            "Ali rela menabung demi membeli biola dan cello"
+        ],
+        "answer": "Ali rela menabung demi membeli biola dan cello",
+        "explanation": "Kalimat ini menunjukkan bahwa Deni ahli memainkan dua alat musik yang berhubungan erat, yaitu gitar dan ukulele, yang keduanya merupakan alat musik berdawai. Pilihan <b>E. Ali rela menabung demi membeli biola dan cello</b> adalah yang paling tepat karena biola dan cello juga termasuk dalam kategori alat musik berdawai, mirip dengan hubungan antara gitar dan ukulele.<br><br><b>Analisis Pilihan Lain:</b><ul><li><b>A.</b> Biola adalah alat musik dawai, tetapi harmonika bukan.</li><li><b>B.</b> Cajon adalah perkusi, sedangkan piano adalah alat musik tuts.</li><li><b>C.</b> Seruling adalah alat musik tiup, sedangkan kecapi adalah dawai.</li><li><b>D.</b> Angklung adalah alat musik getar, sedangkan gendang adalah perkusi.</li></ul>Dengan demikian, jawaban yang tepat adalah <b>E</b> karena mencerminkan hubungan antara dua alat musik yang serupa dalam jenis (sama-sama alat musik dawai)."
+    },
+    {
+        "q": "Kita mengetahui bahwa \"Pada gitar terdapat body dan neck.\" Hubungan objek yang setara dengan kalimat di atas adalah ...",
+        "opts": [
+            "Pada Handphone terdapat kamera dan charger HP",
+            "Pada laptop terdapat keyboard dan mouse",
+            "Pada tubuh manusia terdapat punggung dan panu",
+            "Pada air terdapat atom hidrogen dan atom oksigen",
+            "Pada tas terdapat buku dan pensil"
+        ],
+        "answer": "Pada air terdapat atom hidrogen dan atom oksigen",
+        "explanation": "Kalimat ini menunjukkan bagian-bagian yang membentuk suatu objek atau entitas secara integral. Gitar terdiri dari beberapa bagian utama, termasuk <i>body</i> dan <i>neck</i>. <b>D. Pada air terdapat atom hidrogen dan atom oksigen</b> adalah pilihan yang paling tepat, karena air ($H_2O$) adalah senyawa yang terbentuk dari atom hidrogen dan oksigen sebagai elemen dasarnya.<br><br><b>Analisis Pilihan Lain:</b><ul><li><b>A & B.</b> Charger dan mouse adalah aksesoris eksternal, bukan bagian fisik integral dari perangkat tersebut.</li><li><b>C.</b> Panu adalah kondisi penyakit/kulit, bukan bagian anatomis tubuh.</li><li><b>E.</b> Buku dan pensil adalah isi tas, bukan bagian struktural dari tas tersebut.</li></ul>Oleh karena itu, pilihan <b>D</b> adalah analogi yang paling tepat."
+    },
+    {
+        "q": "Hubungan objek pada kalimat \"Saat di pasar, terdapat penjual dan pembeli\" setara dengan ...",
+        "opts": [
+            "Saat di cafe, terdapat waiters dan barista",
+            "Saat di rumah, terdapat ayah dan anak",
+            "Saat di sekolah, terdapat guru IPA dan guru IPS",
+            "Saat di pesawat, terdapat pramugari dan penumpang",
+            "Saat di kantor, terdapat atasan dan bawahan"
+        ],
+        "answer": "Saat di pesawat, terdapat pramugari dan penumpang",
+        "explanation": "Kalimat ini menggambarkan hubungan antara dua kelompok orang di tempat tertentu dengan peran yang saling melengkapi (timbal balik/simbiotik). Di pasar, penjual dan pembeli berinteraksi dalam transaksi. Pilihan <b>D. Saat di pesawat, terdapat pramugari dan penumpang</b> adalah yang paling tepat, karena pramugari bertugas melayani penumpang, mencerminkan hubungan timbal balik penyedia jasa dan pengguna jasa di tempat tersebut.<br><br><b>Analisis Pilihan Lain:</b><ul><li><b>A & C.</b> Waiters/barista dan guru IPA/IPS adalah sesama pekerja/rekan sejawat, bukan hubungan timbal balik pengguna-penyedia.</li><li><b>B.</b> Hubungan keluarga (biologis), bukan peran fungsional di tempat umum.</li><li><b>E.</b> Hubungan hierarki struktur organisasi, bukan hubungan pelayanan publik/transaksional.</li></ul>"
+    },
+    {
+        "q": "Hubungan objek pada kalimat \"Rahmat mampu memainkan rebana dan tambur\" setara dengan ...",
+        "opts": [
+            "Toko musik ABC menjual arbab dan biola",
+            "Pengamen itu memainkan lagu dengan iringan gitar dan cajon",
+            "Perpaduan suara gendang dan seruling sangat enak ditelinga",
+            "Ikhsan sedang memainkan gitar dan harmonika",
+            "Intan membeli piano dan gitar di toko musik sebrang jalan"
+        ],
+        "answer": "Ikhsan sedang memainkan gitar dan harmonika",
+        "explanation": "Kalimat ini menyatakan subjek tunggal yang memiliki kemampuan memainkan dua alat musik (seringkali secara simultan atau dalam satu konteks keahlian). Pilihan <b>D. Ikhsan sedang memainkan gitar dan harmonika</b> paling sesuai karena menunjukkan satu subjek yang memainkan dua instrumen yang sering dikombinasikan oleh satu orang musisi.<br><br><b>Analisis Pilihan Lain:</b><ul><li><b>A & E.</b> Konteksnya adalah menjual atau membeli, bukan memainkan.</li><li><b>B.</b> Gitar dan cajon biasanya dimainkan oleh dua orang yang berbeda dalam sebuah kelompok.</li><li><b>C.</b> Fokus pada perpaduan suara (objek), bukan kemampuan subjek memainkan alatnya.</li></ul>Oleh karena itu, <b>D</b> adalah jawaban yang paling sesuai."
+    },
+    {
+        "q": "Hubungan objek pada kalimat \"Seorang petugas pemadam kebakaran pergi menggunakan mobil pemadam dan selang air digunakan untuk memadamkan titik api\" setara dengan ...",
+        "opts": [
+            "Seorang pemain basket akan pergi bertanding dengan menaiki bus tim dan lapangan pertandingannya sudah disiapkan oleh panitia",
+            "Seorang nelayan akan berlayar dengan perahu dan jala untuk menangkap ikan di laut",
+            "Seorang guru terbiasa menggunakan spidol dan papan tulis untuk mengajar di kelas",
+            "Sebuah kipas angin menghasilkan angin dan remote digunakan untuk mempercepat laju anginnya",
+            "Seorang polisi memakai senjata api dan borgol digunakan untuk menangkap penjahat"
+        ],
+        "answer": "Seorang nelayan akan berlayar dengan perahu dan jala untuk menangkap ikan di laut",
+        "explanation": "Kalimat soal menunjukkan pola: <b>Subjek + Transportasi Khusus + Alat Tugas Utama</b>. Petugas pemadam menggunakan mobil (transportasi) dan selang (alat tugas). Hubungan serupa adalah <b>B. Seorang nelayan akan berlayar dengan perahu dan jala</b>, di mana perahu adalah transportasinya dan jala adalah alat utama untuk menangkap ikan.<br><br><b>Analisis Pilihan Lain:</b><ul><li><b>A.</b> Lapangan bukan alat yang dipegang/digunakan pemain untuk melakukan aksi utama.</li><li><b>C.</b> Tidak menyebutkan alat transportasi.</li><li><b>D.</b> Fokus pada komponen benda mati, bukan subjek profesi.</li><li><b>E.</b> Senjata dan borgol keduanya adalah alat tugas, tidak ada unsur alat transportasi khusus untuk menuju lokasi kerja.</li></ul>"
+    }
+]

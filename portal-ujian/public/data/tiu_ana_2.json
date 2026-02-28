@@ -1,0 +1,122 @@
+[
+    {
+        "q": "KEUNTUNGAN : PENJUALAN = ...",
+        "opts": [
+            "Pendekar : silat",
+            "Kemasyuran : keberanian",
+            "Kebenaran : hukum",
+            "Toleransi : kerukunan",
+            "Pembelaan : jaksa"
+        ],
+        "answer": "Toleransi : kerukunan",
+        "explanation": "Hubungan analoginya adalah \"diperoleh dari\". Keuntungan diperoleh dari penjualan, sebagaimana toleransi diperoleh dari (atau menghasilkan) kerukunan. Dalam konteks ini, kerukunan tercipta karena adanya toleransi."
+    },
+    {
+        "q": "RATA : MULUS = ...",
+        "opts": [
+            "Bengkok : liku",
+            "Kasar : aspal",
+            "Manis : madu",
+            "Obat : pahit",
+            "Buah : segar"
+        ],
+        "answer": "Bengkok : liku",
+        "explanation": "Hubungan analoginya adalah sifat yang \"akan terlihat\" atau sinonim keadaan. Sesuatu yang rata akan terlihat mulus, sebagaimana sesuatu yang bengkok akan terlihat berliku-liku."
+    },
+    {
+        "q": "HEMPASAN : ABRASI = ...",
+        "opts": [
+            "Lapar : Haus",
+            "Reruntuhan : penghancuran",
+            "Rayuan : pujian",
+            "Memasak : panas",
+            "Membakar : asap"
+        ],
+        "answer": "Membakar : asap",
+        "explanation": "Hubungan analoginya adalah \"sebab-akibat\" atau \"menghasilkan\". Hempasan (gelombang) menghasilkan abrasi, sebagaimana aktivitas membakar menghasilkan asap."
+    },
+    {
+        "q": "KOMPOR : GAS = ...",
+        "opts": [
+            "SPBU : mobil",
+            "Sepeda motor : bensin",
+            "Direktur : perusahaan",
+            "Jaring : nelayan",
+            "Gergaji : tukang kayu"
+        ],
+        "answer": "Sepeda motor : bensin",
+        "explanation": "Hubungan analoginya adalah alat dan bahan bakar yang dibutuhkan agar dapat berfungsi. Kompor membutuhkan gas agar dapat digunakan, sebagaimana sepeda motor membutuhkan bensin agar dapat berjalan."
+    },
+    {
+        "q": "NELAYAN : PERAHU = ... : ...",
+        "opts": [
+            "Penulis : buku",
+            "Petani : traktor",
+            "Pengacara : hukum",
+            "Guru : murid",
+            "Berpikir : otak"
+        ],
+        "answer": "Petani : traktor",
+        "explanation": "Hubungan analoginya adalah profesi dan alat kerja utamanya. Nelayan bekerja dengan menggunakan perahu, sebagaimana petani (modern) bekerja dengan menggunakan traktor."
+    },
+    {
+        "q": "PANGGUNG : AKTOR = ... : ...",
+        "opts": [
+            "Perpustakaan : siswa",
+            "Keamanan : satpam",
+            "Ring : petinju",
+            "Petani : cangkul",
+            "Rumah sakit : dokter"
+        ],
+        "answer": "Ring : petinju",
+        "explanation": "Hubungan analoginya adalah 'tempat beraksi/bekerja'. Panggung merupakan tempat aktor beraksi, sebagaimana ring merupakan tempat khusus petinju beraksi."
+    },
+    {
+        "q": "POP : MUSIK = ... : ...",
+        "opts": [
+            "Farmakologi : ilmu",
+            "Film : skenario",
+            "Drama : panggung",
+            "Sandiwara : plot",
+            "Teater : acara"
+        ],
+        "answer": "Farmakologi : ilmu",
+        "explanation": "Hubungan analoginya adalah 'salah satu jenis dari'. Pop merupakan salah satu jenis musik, sebagaimana farmakologi merupakan salah satu jenis bidang ilmu."
+    },
+    {
+        "q": "RAMALAN : ASTROLOGI = ... : ...",
+        "opts": [
+            "Ilmu : biologi",
+            "Perusahaan : akutansi",
+            "Cita - cita : belajar",
+            "Bangsa : etnologi",
+            "Negara : presiden"
+        ],
+        "answer": "Bangsa : etnologi",
+        "explanation": "Hubungan analoginya adalah 'objek kajian : nama ilmu'. Ramalan merupakan objek yang dipelajari dalam astrologi, sebagaimana bangsa merupakan objek yang dipelajari dalam etnologi."
+    },
+    {
+        "q": "GEMPA : RITCHER = SUHU : ...",
+        "opts": [
+            "Termometer",
+            "Panas",
+            "Tekanan",
+            "Derajat",
+            "Berguncang"
+        ],
+        "answer": "Derajat",
+        "explanation": "Hubungan analoginya adalah 'satuan ukuran'. Richter merupakan satuan untuk mengukur kekuatan gempa, sebagaimana derajat merupakan satuan untuk mengukur suhu."
+    },
+    {
+        "q": "SENAPAN : BERBURU = ... : ...",
+        "opts": [
+            "Perangkap : menangkap",
+            "Kapal : berlabuh",
+            "Kereta : lancar",
+            "Pancing : ikan",
+            "Parang : mengasah"
+        ],
+        "answer": "Perangkap : menangkap",
+        "explanation": "Hubungan analoginya adalah 'alat : fungsi/tujuan'. Senapan digunakan untuk fungsi berburu, sebagaimana perangkap digunakan untuk fungsi menangkap."
+    }
+]

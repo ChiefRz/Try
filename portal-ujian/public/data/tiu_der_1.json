@@ -1,0 +1,122 @@
+[
+    {
+        "q": "1½, 3, ..., ..., 24, 48",
+        "opts": [
+            "3 dan 6",
+            "1½ dan 6",
+            "6 dan 6",
+            "6 dan 12",
+            "12 dan 18"
+        ],
+        "answer": "6 dan 12",
+        "explanation": "<strong>1½ </strong><span style=\"color: #808080;\">(x2)</span><strong> 3 </strong><span style=\"color: #808080;\">(x2)</span> <strong>6 </strong><span style=\"color: #808080;\">(x2) </span><strong>12 </strong><span style=\"color: #808080;\">(x2) </span><strong>24 </strong><span style=\"color: #808080;\">(x2)</span> <strong>48</strong>"
+    },
+    {
+        "q": "3, 8, 14, 21, 29, 38, ... , ...",
+        "opts": [
+            "48 dan 59",
+            "45 dan 55",
+            "42 dan 51",
+            "40 dan 49",
+            "40 dan 45"
+        ],
+        "answer": "48 dan 59",
+        "explanation": "<strong>3</strong><span style=\"color: #808080;\"> (+5)</span> <strong>8</strong><span style=\"color: #808080;\"> (+6)</span> <strong>14</strong><span style=\"color: #808080;\"> (+7)</span> <strong>21</strong><span style=\"color: #808080;\"> (+8)</span> <strong>29</strong><span style=\"color: #808080;\"> (+9)</span> <strong>38</strong><span style=\"color: #808080;\"> (+10)</span> <strong>48 </strong><span style=\"color: #808080;\">(+11)</span> <strong>59</strong>"
+    },
+    {
+        "q": "11 - 99 - 77 - 12 - 100 - 78 - 13 - .... - ....",
+        "opts": [
+            "79 - 101",
+            "78 - 100",
+            "100 - 78",
+            "101 - 79",
+            "77 - 101"
+        ],
+        "answer": "101 - 79",
+        "explanation": "<img src=\"https://1.bp.blogspot.com/-RItd_sEnqYg/XdOkwUUI2gI/AAAAAAAABeo/DFXhE_3TfLQj6rM6RjZbzpwXsuTZsfWzwCNcBGAsYHQ/s1600/3.png\" alt=\"\">"
+    },
+    {
+        "q": "5 - 7 - 10 - 12 - 15 - ....",
+        "opts": [
+            "13",
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "answer": "17",
+        "explanation": "<img src=\"https://1.bp.blogspot.com/-Z0JxPQT9fSs/XdOk2otFVdI/AAAAAAAABfs/19AFVZp34o8mFmTY6xBB4YF-MxuR8RQwQCNcBGAsYHQ/s1600/5.png\" alt=\"\">"
+    },
+    {
+        "q": "99, 94, 96, 91, 93, 88, 90, ....",
+        "opts": [
+            "79",
+            "85",
+            "90",
+            "91",
+            "93"
+        ],
+        "answer": "85",
+        "explanation": "<img src=\"https://1.bp.blogspot.com/-3ciJICeDnWk/XdOk3NITvjI/AAAAAAAABf0/RPxhNSlrVCE62OCbq7fEhcuHXo2MqA0pQCNcBGAsYHQ/s1600/6.png\" alt=\"\">"
+    },
+    {
+        "q": "9, 9, 9, 6, 9, 3, .... , ....",
+        "opts": [
+            "11 dan 11",
+            "10 dan 9",
+            "9 dan 0",
+            "0 dan 9",
+            "1 dan 0"
+        ],
+        "answer": "9 dan 0",
+        "explanation": "<img src=\"https://1.bp.blogspot.com/-p14qr8K2F1k/XdOkrgP1sjI/AAAAAAAABd0/8g3CoDielJEkZSVnmeV67XSjrCy_auBqQCNcBGAsYHQ/s1600/10.png\" alt=\"\">"
+    },
+    {
+        "q": "625 - 1296 - 25 - 36 - 5 - ....",
+        "opts": [
+            "8",
+            "4",
+            "6",
+            "10",
+            "14"
+        ],
+        "answer": "6",
+        "explanation": "<img src=\"https://1.bp.blogspot.com/-0sJuPjw7IUA/XdOkrl0DK8I/AAAAAAAABd4/hriew_wJyzoLlcuUBLXIVvRA_8dGVkKpgCNcBGAsYHQ/s1600/11.png\" alt=\"\">"
+    },
+    {
+        "q": "50 - 40 - 100 - 90 - 50 - ....",
+        "opts": [
+            "140",
+            "100",
+            "80",
+            "60",
+            "50"
+        ],
+        "answer": "140",
+        "explanation": "<img src=\"https://1.bp.blogspot.com/-xxLjnqUNtkc/XdOkrosrp3I/AAAAAAAABdw/pKHf829gzeIwEdh2Bt6Eglz4RQ1v5BlOQCNcBGAsYHQ/s1600/12.png\" alt=\"\">"
+    },
+    {
+        "q": "15, 16, 20, 29, .... , ....",
+        "opts": [
+            "30, 34",
+            "32, 35",
+            "35, 45",
+            "45, 70",
+            "70, 85"
+        ],
+        "answer": "45, 70",
+        "explanation": "<img src=\"https://1.bp.blogspot.com/-t8CalW-oQJs/XdOksTpyHFI/AAAAAAAABd8/Cz4brelK5tcgtY-b_Lvgm1cU-6eKJGQfgCNcBGAsYHQ/s1600/13.png\" alt=\"\">"
+    },
+    {
+        "q": "26, 27, 29, 32, ..., ..., 40, 38, 35, 31, 26",
+        "opts": [
+            "34 dan 40",
+            "40 dan 36",
+            "41 dan 30",
+            "36 dan 41",
+            "36 dan 40"
+        ],
+        "answer": "36 dan 41",
+        "explanation": "<img src=\"https://1.bp.blogspot.com/-qtAKnQkt2u0/XdOktD1YawI/AAAAAAAABeA/wBNv_0LzZ8Q1tfWHbwcT_JM6BsBAtFNkwCNcBGAsYHQ/s1600/14.png\" alt=\"\">"
+    }
+]

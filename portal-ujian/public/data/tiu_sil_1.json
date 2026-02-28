@@ -1,0 +1,122 @@
+[
+    {
+        "q": "Semua penerima beasiswa mempunyai prestasi istimewa. <br> Beberapa siswa menerima beasiswa.",
+        "opts": [
+        "Semua siswa berprestasi istimewa menerima beasiswa",
+        "Tidak ada siswa yang tidak berprestasi istimewa tidak menerima beasiswa",
+        "Beberapa siswa mempunyai prestasi istimewa",
+        "Ada siswa penerima beasiswa yang tidak mempunyai prestasi istimewa",
+        "Tidak ada siswa berprestasi istimewa yang menerima beasiswa"
+        ],
+        "answer": "Beberapa siswa mempunyai prestasi istimewa",
+        "explanation": "Dalam silogisme, jika salah satu premis bersifat partikular (\"Beberapa\"), maka kesimpulan harus bersifat partikular. <br> Premis 1: Semua A adalah B. <br> Premis 2: Beberapa C adalah A. <br> Kesimpulan: Beberapa C adalah B. <br> Jadi, karena beberapa siswa menerima beasiswa dan semua penerima beasiswa berprestasi, maka beberapa siswa tersebut dipastikan mempunyai prestasi istimewa."
+    },
+    {
+        "q": "Semua tenda beratap dan tinggi. <br> Andi berada di tempat yang tidak beratap dan tidak tinggi. <br> Kesimpulan yang tepat adalah .....",
+        "opts": [
+        "Andi berada di tenda beratap.",
+        "Andi berada di tenda tinggi.",
+        "Andi berada di bukan tenda.",
+        "Andi berada di tenda bukan beratap.",
+        "Andi berada di tenda bukan beratap dan bukan tinggi."
+        ],
+        "answer": "Andi berada di bukan tenda.",
+        "explanation": "Syarat mutlak sesuatu disebut 'tenda' adalah harus beratap DAN tinggi (konjungsi). Karena tempat Andi tidak memenuhi kedua syarat tersebut (tidak beratap dan tidak tinggi), maka tempat tersebut secara otomatis bukan merupakan tenda. "
+    },
+    {
+        "q": "Bila naik kereta api, harus membayar kontan atau memakai tiket abonemen. <br> Badu naik kereta api padahal tidak membayar kontan. <br> Kesimpulan yang tepat adalah .....",
+        "opts": [
+        "Badu tidak membayar untuk naik kereta api.",
+        "Badu membayar kontan untuk naik kereta api.",
+        "Badu membayar dengan tiket abonemen.",
+        "Badu tidak mempunyai tiket abonemen.",
+        "Badu tidak mempunyai uang kontan."
+        ],
+        "answer": "Badu membayar dengan tiket abonemen.",
+        "explanation": "Ini menggunakan logika disjungtif (p atau q). Syarat naik kereta adalah membayar kontan (p) ATAU memakai tiket abonemen (q). Karena Badu naik kereta api (syarat terpenuhi) tetapi diketahui dia tidak membayar kontan (~p), maka dipastikan Badu menggunakan tiket abonemen (q)."
+    },
+    {
+        "q": "Korban yang memiliki tabungan kurang dari tiga juta rupiah mendapat bantuan dan hadiah. <br> Yusuf menerima bantuan, tetapi tidak menerima hadiah. <br> Kesimpulan yang tepat adalah .....",
+        "opts": [
+        "Yusuf adalah korban yang tabungannya lebih dari tiga juta rupiah.",
+        "Yusuf adalah korban yang tabungannya kurang dari tiga juta rupiah.",
+        "Yusuf adalah korban yang berhak menerima hadiah.",
+        "Yusuf adalah bukan korban yang berhak menerima hadiah.",
+        "Yusuf adalah korban yang tabungannya tiga juta rupiah."
+        ],
+        "answer": "Yusuf adalah korban yang tabungannya lebih dari tiga juta rupiah.",
+        "explanation": "Syarat untuk kategori 'tabungan < 3 juta' adalah mendapatkan bantuan DAN hadiah. Yusuf tidak menerima hadiah, yang berarti salah satu syarat dari kategori tersebut tidak terpenuhi. Oleh karena itu, Yusuf tidak termasuk dalam kelompok korban yang memiliki tabungan kurang dari tiga juta rupiah (dengan kata lain, tabungannya $\\ge$ tiga juta rupiah)."
+    },
+    {
+        "q": "Bahan katun lebih baik daripada bahan nilon. <br> Bahan yang lebih baik, lebih tahan lama dan lebih mahal. <br> Kesimpulan yang tepat adalah .....",
+        "opts": [
+        "Bahan nilon lebih tahan lama dan lebih mahal daripada bahan katun",
+        "Bahan nilon tidak lebih tahan lama, tetapi lebih mahal daripada bahan katun",
+        "Bahan nilon tidak lebih tahan lama dan tidak lebih mahal daripada bahan katun",
+        "Bahan nilon lebih tahan lama, tetapi tidak lebih mahal daripada bahan katun",
+        "Bahan nilon sama tahan lama dan sama mahalnya dengan bahan katun"
+        ],
+        "answer": "Bahan nilon tidak lebih tahan lama dan tidak lebih mahal daripada bahan katun",
+        "explanation": "Premis 1: Katun > Nilon (dalam hal kualitas). <br> Premis 2: Kualitas Baik $\\rightarrow$ Tahan Lama + Mahal. <br> Karena Katun lebih baik dari Nilon, maka Katun-lah yang lebih tahan lama dan lebih mahal. Sebaliknya, bahan nilon (yang kualitasnya di bawah katun) tidak lebih tahan lama dan tidak lebih mahal daripada katun. "
+    },
+    {
+        "q": "Semua gunung berbatu dan menjulang.<br> Anda berada di tempat yang tidak berbatu dan tidak menjulang.",
+        "opts": [
+        "Anda berada di gunung berbatu.",
+        "Anda berada di gunung yang tidak menjulang.",
+        "Anda bukan berada di gunung.",
+        "Anda berada di gunung yang tidak berbatu.",
+        "Anda berada di gunung yang tidak berbatu dan tidak menjulang."
+        ],
+        "answer": "Anda bukan berada di gunung.",
+        "explanation": "Syarat mutlak sesuatu disebut 'gunung' berdasarkan premis adalah harus memenuhi dua kriteria: berbatu DAN menjulang (konjungsi). Jika seseorang berada di tempat yang tidak memenuhi kedua kriteria tersebut, maka secara logis tempat tersebut bukan merupakan gunung. Ini menggunakan prinsip negasi dalam logika formal."
+    },
+    {
+        "q": "Sepatu merah lebih bagus dari sepatu hitam.<br> Sepatu yang lebih bagus harganya lebih mahal dan banyak dibeli orang.",
+        "opts": [
+        "Ada sepatu hitam yang lebih mahal dan lebih banyak dibeli orang.",
+        "Sepatu merah yang tidak lebih bagus dari sepatu hitam harganya murah.",
+        "Sepatu yang lebih banyak dibeli orang belum tentu lebih bagus.",
+        "Sepatu merah lebih banyak dibeli orang walaupun harganya lebih mahal.",
+        "Ada sepatu merah yang harganya lebih mahal tidak banyak dibeli orang."
+        ],
+        "answer": "Sepatu merah lebih banyak dibeli orang walaupun harganya lebih mahal.",
+        "explanation": "Diberikan premis bahwa sepatu merah > sepatu hitam dalam hal kualitas. Premis kedua menyatakan bahwa kualitas yang lebih baik berimplikasi pada harga lebih mahal DAN lebih banyak pembeli. Karena sepatu merah masuk kategori 'lebih bagus', maka otomatis ia lebih mahal dan lebih banyak dibeli orang."
+    },
+    {
+        "q": "Semua negara berkembang masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi.<br> Indonesia adalah negara berkembang.",
+        "opts": [
+        "Indonesia tidak bermasalah dengan tingkat pengangguran yang tinggi tapi bermasalah dengan kemiskinan.",
+        "Indonesia bermasalah dengan tingkat kemiskinan yang tinggi tetapi tidak dengan tingkat pengangguran.",
+        "Indonesia tidak bermasalah dengan tingkat pengangguran yang tinggi dan juga tidak dengan kemiskinan.",
+        "Bisa jadi Indonesia masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi.",
+        "Indonesia masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi."
+        ],
+        "answer": "Indonesia masih bermasalah dengan tingkat pengangguran dan kemiskinan yang tinggi.",
+        "explanation": "Ini adalah silogisme kategori sederhana. Jika Semua A adalah B (Semua negara berkembang bermasalah), dan C adalah A (Indonesia adalah negara berkembang), maka kesimpulannya adalah C adalah B (Indonesia bermasalah dengan pengangguran dan kemiskinan tinggi)."
+    },
+    {
+        "q": "Teman yang baik adalah yang dapat menerima keadaan kita.<br>Sebagian teman dari desa C tidak dapat menerima keadaan kita.",
+        "opts": [
+        "Semua teman di desa C adalah teman yang tidak baik",
+        "Semua teman di desa C adalah teman yang baik",
+        "Sebagian teman di desa C adalah teman yang baik",
+        "Sebagian teman yang baik berasal bukan dari desa C",
+        "Semua teman yang tidak baik berasal dari desa C"
+        ],
+        "answer": "Sebagian teman di desa C adalah teman yang baik",
+        "explanation": "Jika teman yang baik didefinisikan sebagai mereka yang menerima keadaan kita, dan diketahui 'sebagian' teman dari desa C TIDAK menerima kita (berarti sebagian teman desa C 'tidak baik'), maka secara logis sisa dari 'sebagian' tersebut adalah teman yang menerima kita, atau 'sebagian teman di desa C adalah teman yang baik'."
+    },
+    {
+        "q": "Di rumah sakit semua dokter berbaju putih dan membawa stetoskop.<br> Anton ada di rumah sakit, ia tidak berbaju putih dan tidak membawa stetoskop.",
+        "opts": [
+        "Anton seorang dokter yang tidak berbaju putih",
+        "Anton bukan seorang dokter yang berbaju putih",
+        "Anton seorang dokter yang tidak membawa stetoskop",
+        "Anton bukan seorang dokter",
+        "Anton seorang dokter yang tidak membawa stetoskop dan tidak berbaju putih"
+        ],
+        "answer": "Anton bukan seorang dokter",
+        "explanation": "Premis menetapkan syarat kumulatif untuk menjadi dokter di RS tersebut: baju putih DAN stetoskop. Karena Anton tidak memenuhi satupun dari syarat tersebut, maka Anton dipastikan bukan merupakan bagian dari himpunan dokter di rumah sakit tersebut."
+    }
+]
