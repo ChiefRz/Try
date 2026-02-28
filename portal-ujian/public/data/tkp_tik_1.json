@@ -1,0 +1,262 @@
+[
+    {
+        "q": "Sebagai staf keuangan Andi sudah terbiasa membuat laporan keuangan secara manual. Minggu lalu kepala bagian keuangan meminta Andi untuk membuat laporan keuangan dengan menggunakan aplikasi akuntansi yang belum pernah ia operasikan sebelumnya. sikap Andi adalah ...",
+        "opts": [
+        {
+            "text": "Meminta arahan penggunaan aplikasi kepada rekan kinerja yang sudah pernah mengoperasikannya",
+            "score": 5
+        },
+        {
+            "text": "Merasa bahwa aplikasi tersebut dapat membantu ketika ia membaut laporan yang kompleks saja",
+            "score": 1
+        },
+        {
+            "text": "Menambah pengetahuan ke depannya terkait aplikasi-aplikasi yang dapat mendukung pembuatan laporan keuangannya",
+            "score": 4
+        },
+        {
+            "text": "Meminta rekan kerja yang sudah terbiasa mengoperasikan aplikasi tersebut untuk membuat laporan kerjanya",
+            "score": 2
+        },
+        {
+            "text": "Mencari tahu alternatif aplikasi yang digunakan oleh rekan lain dalam membuat laporan keuangan",
+            "score": 3
+        }
+        ],
+        "explanation": "<b>Jawaban: Meminta arahan penggunaan aplikasi kepada rekan kinerja yang sudah pernah mengoperasikannya</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Meminta arahan penggunaan aplikasi kepada rekan kinerja yang sudah pernah mengoperasikannya.</li><li><b>Poin 4:</b> Menambah pengetahuan ke depannya terkait aplikasi-aplikasi yang dapat mendukung pembuatan laporan keuangannya.</li><li><b>Poin 3:</b> Mencari tahu alternatif aplikasi yang digunakan oleh rekan lain dalam membuat laporan keuangan.</li><li><b>Poin 2:</b> Meminta rekan kerja yang sudah terbiasa mengoperasikan aplikasi tersebut untuk membuat laporan kerjanya.</li><li><b>Poin 1:</b> Merasa bahwa aplikasi tersebut dapat membantu ketika ia membaut laporan yang kompleks saja.</li></ul>"
+    },
+    {
+        "q": "Bonar baru pulang dari proyek dan harus melakukan pendaftaran susulan untuk audentifikasi sidik jari. Pendaftaran sidik jari harus dilakukan di gedung pusat yang berjarak jauh. Meskipun autentifikasi sidik jari diaktifkan, kehadiran tertulis tetap dilakukan. Sikap Bonar adalah ...",
+        "opts": [
+        {
+            "text": "Memanfaatkan pencatatan kehadiran tertulis sampai atasan langsung memerintahkan secar personal untuk mendaftarkan diri",
+            "score": 2
+        },
+        {
+            "text": "Memanfaatkan pencatatan kehadiran tertulis selama autentifikasi penggunanan sidik jari belum mendesak untuk digunakan di divisinya",
+            "score": 1
+        },
+        {
+            "text": "Memanfaatkan pencatatan kehadiran tertulis yang sudah ada agar waktu kerjanya tidak terbuang hanya untuk pendaftaran sidik jari",
+            "score": 3
+        },
+        {
+            "text": "Memanfaatkan pencatatan kehadiran tertulis dan segera mengurus pendaftaran diri untuk memudahkan pencatatan bagi perusahaan",
+            "score": 5
+        },
+        {
+            "text": "Memanfaatkan pencatatan kehadiran tertulis luang yang bisa disediakan untuk mendaftarkan diri",
+            "score": 4
+        }
+        ],
+        "explanation": "<b>Jawaban: Memanfaatkan pencatatan kehadiran tertulis dan segera mengurus pendaftaran diri untuk memudahkan pencatatan bagi perusahaan</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Memanfaatkan pencatatan kehadiran tertulis dan segera mengurus pendaftaran diri untuk memudahkan pencatatan bagi perusahaan.</li><li><b>Poin 4:</b> Memanfaatkan pencatatan kehadiran tertulis luang yang bisa disediakan untuk mendaftarkan diri.</li><li><b>Poin 3:</b> Memanfaatkan pencatatan kehadiran tertulis yang sudah ada agar waktu kerjanya tidak terbuang hanya untuk pendaftaran sidik jari.</li><li><b>Poin 2:</b> Memanfaatkan pencatatan kehadiran tertulis sampai atasan langsung memerintahkan secar personal untuk mendaftarkan diri.</li><li><b>Poin 1:</b> Memanfaatkan pencatatan kehadiran tertulis selama autentifikasi penggunanan sidik jari belum mendesak untuk digunakan di divisinya.</li></ul>"
+    },
+    {
+        "q": "Beni sebagai kepala analisis transaksi keuangan merasa kesulitan untuk memantau penggalangan dana yang dilakukan beberapa yayasan melalui akun virtual. Ia juga kesulitan mengidentifikasi tindakan pencucian uang melalui penggalangan dan. Beni sebaiknya ...",
+        "opts": [
+        {
+            "text": "Menugasi beberapa staf untuk mendatangi yayasan yang dimaksud untuk diminta keterangan menggenai penggalangan dana tersebut",
+            "score": 1
+        },
+        {
+            "text": "Mengandalkan progam berbasi daring yang ia miliki untuk melacak aliran dana ke berbagai akun virtual yayasan",
+            "score": 3
+        },
+        {
+            "text": "Mencari informasi mengenai program atau metode yang dapat digunakan dengan akurat untuk melacak aliran dana tersebut",
+            "score": 5
+        },
+        {
+            "text": "Bekerja sama dengan Bank Pusat untuk memantau aliran dana di akun virtual yang dimiliki oleh yayasan",
+            "score": 2
+        },
+        {
+            "text": "Menginstruksikan beberapa staf teknologi informasi untuk mengembangkan metode pelacakan dana di akun virtual",
+            "score": 4
+        }
+        ],
+        "explanation": "<b>Jawaban: Mencari informasi mengenai program atau metode yang dapat digunakan dengan akurat untuk melacak aliran dana tersebut</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Mencari informasi mengenai program atau metode yang dapat digunakan dengan akurat untuk melacak aliran dana tersebut.</li><li><b>Poin 4:</b> Menginstruksikan beberapa staf teknologi informasi untuk mengembangkan metode pelacakan dana di akun virtual.</li><li><b>Poin 3:</b> Mengandalkan progam berbasi daring yang ia miliki untuk melacak aliran dana ke berbagai akun virtual yayasan.</li><li><b>Poin 2:</b> Bekerja sama dengan Bank Pusat untuk memantau aliran dana di akun virtual yang dimiliki oleh yayasan.</li><li><b>Poin 1:</b> Menugasi beberapa staf untuk mendatangi yayasan yang dimaksud untuk diminta keterangan menggenai penggalangan dana tersebut.</li></ul>"
+    },
+    {
+        "q": "Seorang kepala bagian mengistruksikan agar setiap unit kerja di perusahaan memiliki perangkat lunak masing-masing untuk meningkatkan kinerja. Sebagai kepala bagian administrasi. Rihana sebaliknya ...",
+        "opts": [
+        {
+            "text": "Mempelajari perangkat lunak yang digunakan perusahaan sebagi upaya untuk menyamakan kualitas pekerja",
+            "score": 3
+        },
+        {
+            "text": "Menggunakan perangkat lunak tersebut untuk menyelesaikan tugasnya agar agar lebih cepat dan akurat",
+            "score": 4
+        },
+        {
+            "text": "Mempelajari cara kerja perangkat lunak di unit kerjanya agar dapat meningkatkan hasil kinerja semua anggota tim",
+            "score": 5
+        },
+        {
+            "text": "Berusaha mempelajari dan menggunakan perangkat lunak tersebut walaupun memerlukan waktu yang lebih lama",
+            "score": 2
+        },
+        {
+            "text": "Masih tetap menggunakan cara manual dalam menyelesaikan tugas kerjanya sehari-hari",
+            "score": 1
+        }
+        ],
+        "explanation": "<b>Jawaban: Mempelajari cara kerja perangkat lunak di unit kerjanya agar dapat meningkatkan hasil kinerja semua anggota tim</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Mempelajari cara kerja perangkat lunak di unit kerjanya agar dapat meningkatkan hasil kinerja semua anggota tim.</li><li><b>Poin 4:</b> Menggunakan perangkat lunak tersebut untuk menyelesaikan tugasnya agar agar lebih cepat dan akurat.</li><li><b>Poin 3:</b> Mempelajari perangkat lunak yang digunakan perusahaan sebagi upaya untuk menyamakan kualitas pekerja.</li><li><b>Poin 2:</b> Berusaha mempelajari dan menggunakan perangkat lunak tersebut walaupun memerlukan waktu yang lebih lama.</li><li><b>Poin 1:</b> Masih tetap menggunakan cara manual dalam menyelesaikan tugas kerjanya sehari-hari.</li></ul>"
+    },
+    {
+        "q": "Perusahaan tempat Rodi bekerja adalah wilayah rawan gempa. Bulan ini baru saja terjadi gempa sehingga pimpinan menugasi Rodi untuk mencari teknologi deteksi dini gempa. Disisi lain, Rodi masih memiliki banyak tugas yang belum diselesaikannya. Sikap Rodi adalah ...",
+        "opts": [
+        {
+            "text": "Mencari informasi tentang teknologi deteksi dini dengan mengacu pada berbagai perusahaan yang sudah menerapkannya",
+            "score": 4
+        },
+        {
+            "text": "Mulai mencari informasi-informasi tentang teknologi deteksi dini yang menarik minatnya di internet",
+            "score": 5
+        },
+        {
+            "text": "Mulai mencari informasi tentang teknologi deteksi dini karena menurut rekan-rekannya teknologi tersebut diperlukan perusahaan",
+            "score": 3
+        },
+        {
+            "text": "Mulai mencari informasi tentang teknologi deteksi dini agar kinerjanya dapat dinilai baik oleh pimpinan perusahaan",
+            "score": 2
+        },
+        {
+            "text": "Mulai mencari cara untuk mengantisipasi gempa tanpa perlu memasang teknologi deteksi dini di perusahaannya",
+            "score": 1
+        }
+        ],
+        "explanation": "<b>Jawaban: Mulai mencari informasi-informasi tentang teknologi deteksi dini yang menarik minatnya di internet</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Mulai mencari informasi-informasi tentang teknologi deteksi dini yang menarik minatnya di internet.</li><li><b>Poin 4:</b> Mencari informasi tentang teknologi deteksi dini dengan mengacu pada berbagai perusahaan yang sudah menerapkannya.</li><li><b>Poin 3:</b> Mulai mencari informasi tentang teknologi deteksi dini karena menurut rekan-rekannya teknologi tersebut diperlukan perusahaan.</li><li><b>Poin 2:</b> Mulai mencari informasi tentang teknologi deteksi dini agar kinerjanya dapat dinilai baik oleh pimpinan perusahaan.</li><li><b>Poin 1:</b> Mulai mencari cara untuk mengantisipasi gempa tanpa perlu memasang teknologi deteksi dini di perusahaannya.</li></ul>"
+    },
+    {
+        "q": "Tim anda mendapatkan fasilitas kata kunci dari kantor untuk mengakses dokumen kantor yang diperlukan. Anda memegang seluruh daftar kunci tersebut. Rekan anda berniat meminjam salah satu kata kunci. Apa yang akan anda lakukan?",
+        "opts": [
+        {
+            "text": "Merasa perlu mengganti kata kunci agar tidak ada data rekan yang bocor",
+            "score": 3
+        },
+        {
+            "text": "Merasa aman membagi salah satu kata kunci kepada rekan tersebut",
+            "score": 2
+        },
+        {
+            "text": "Memberikan kata kunci milik rekan yang lain agar data diri sendiri aman",
+            "score": 1
+        },
+        {
+            "text": "Menyampaikan kepada rekan kerja bahwa kata kunci tersebut bersifat rahasia",
+            "score": 5
+        },
+        {
+            "text": "Menyiapkan enskripsi tambahan untuk mencegah kebocoran daftar kata kunci",
+            "score": 4
+        }
+        ],
+        "explanation": "<b>Jawaban: Menyampaikan kepada rekan kerja bahwa kata kunci tersebut bersifat rahasia</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Menyampaikan kepada rekan kerja bahwa kata kunci tersebut bersifat rahasia.</li><li><b>Poin 4:</b> Menyiapkan enskripsi tambahan untuk mencegah kebocoran daftar kata kunci.</li><li><b>Poin 3:</b> Merasa perlu mengganti kata kunci agar tidak ada data rekan yang bocor.</li><li><b>Poin 2:</b> Merasa aman membagi salah satu kata kunci kepada rekan tersebut.</li><li><b>Poin 1:</b> Memberikan kata kunci milik rekan yang lain agar data diri sendiri aman.</li></ul>"
+    },
+    {
+        "q": "Divisi personalia mendapatkan hak khusus untuk mengakses seluruh data karyawan tanpa terkecuali. Hal itu menyebabkan perlambatan akses pada sistem untuk divisi lain pada saat sedang bekerja. Bagaimana sikap Dini sebagai kepala divisi personalia?",
+        "opts": [
+        {
+            "text": "Mengingatkan para staf personalia untuk bekerja dengan batas waktu tertentu agar divisi lain tetap bisa bekerja dengan optimal",
+            "score": 5
+        },
+        {
+            "text": "Memberikan saran kepada pimpinan untuk membuatkan sistem baru yang tidak menghambat kinerja divisi lain",
+            "score": 3
+        },
+        {
+            "text": "Menggunakan akses khusus tersebut untuk mencari informasi sebanyak-banyaknya mengenai data diri karyawan",
+            "score": 1
+        },
+        {
+            "text": "Menghentikan penggunaan perangkat tersebut pada siang hari karena sistem di komputer pribadi menjadi sangat lambat",
+            "score": 2
+        },
+        {
+            "text": "Menghentikan pemakaian akses perangkat tersebut jika terdapat indikasi melambatnya kinerja divisi personalia",
+            "score": 4
+        }
+        ],
+        "explanation": "<b>Jawaban: Mengingatkan para staf personalia untuk bekerja dengan batas waktu tertentu agar divisi lain tetap bisa bekerja dengan optimal</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Mengingatkan para staf personalia untuk bekerja dengan batas waktu tertentu agar divisi lain tetap bisa bekerja dengan optimal.</li><li><b>Poin 4:</b> Menghentikan pemakaian akses perangkat tersebut jika terdapat indikasi melambatnya kinerja divisi personalia.</li><li><b>Poin 3:</b> Memberikan saran kepada pimpinan untuk membuatkan sistem baru yang tidak menghambat kinerja divisi lain.</li><li><b>Poin 2:</b> Menghentikan penggunaan perangkat tersebut pada siang hari karena sistem di komputer pribadi menjadi sangat lambat.</li><li><b>Poin 1:</b> Menggunakan akses khusus tersebut untuk mencari informasi sebanyak-banyaknya mengenai data diri karyawan.</li></ul>"
+    },
+    {
+        "q": "Fitri diterima sebagai pegawai pemerintah. Fitri sangat bersemangat dan mulai merekam aktivitasnya. Suatu hari secara tidak sengaja dokumen rahasia terekam dan terunggah di akun media sosialnya. Fitri mendapatkan teguran atas hal ini. Apa sebaiknya yang Fitri lakukan?",
+        "opts": [
+        {
+            "text": "Tidak perlu dibesar-besarkan karena hal seperti itu kadang terjadi dan orang lain pun tidak berkepentingan atas unggahan tersebut",
+            "score": 1
+        },
+        {
+            "text": "Memilah dalam menggunakan media sosial karena dapat menjadi ancaman bagi Fitri maupun institusi tempat Fitri bekerja",
+            "score": 2
+        },
+        {
+            "text": "Berhenti merekam dan mengunggah aktivitas pekerjaan di media sosial karena ternyata merugikan diri sendiri",
+            "score": 3
+        },
+        {
+            "text": "Menjadikan pengalamannya itu sebagai pelajaran bagi rekan kerja untuk tidak sembarang merekam di tempat kerja",
+            "score": 5
+        },
+        {
+            "text": "Lebih berhati-hati mengunggah informasi dan mengajak institusi untuk membuat kebijakan mengenai unggah kegiatan di kantor",
+            "score": 4
+        }
+        ],
+        "explanation": "<b>Jawaban: Menjadikan pengalamannya itu sebagai pelajaran bagi rekan kerja untuk tidak sembarang merekam di tempat kerja</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Menjadikan pengalamannya itu sebagai pelajaran bagi rekan kerja untuk tidak sembarang merekam di tempat kerja.</li><li><b>Poin 4:</b> Lebih berhati-hati mengunggah informasi dan mengajak institusi untuk membuat kebijakan mengenai unggah kegiatan di kantor.</li><li><b>Poin 3:</b> Berhenti merekam dan mengunggah aktivitas pekerjaan di media sosial karena ternyata merugikan diri sendiri.</li><li><b>Poin 2:</b> Memilah dalam menggunakan media sosial karena dapat menjadi ancaman bagi Fitri maupun institusi tempat Fitri bekerja.</li><li><b>Poin 1:</b> Tidak perlu dibesar-besarkan karena hal seperti itu kadang terjadi dan orang lain pun tidak berkepentingan atas unggahan tersebut.</li></ul>"
+    },
+    {
+        "q": "Bonita menjadi bendahara untuk mengelola dana yang harus disalurkan ke daerah-daerah di seluruh Indonesia yang membutuhkan bantuan. Bonita harus cermat dan efisien dalam melaksanakan tugasnya. Bagaimana Bonita harus bertindak?",
+        "opts": [
+        {
+            "text": "Menggunakan aplikasi terkini untuk menyelesaikan pekerjaan di semua lini",
+            "score": 5
+        },
+        {
+            "text": "Menggunakan aplikasi yang telah modern untuk membantu pekerjaan ketika berada dalam sebuah tim",
+            "score": 3
+        },
+        {
+            "text": "Mencoba mempelajari aplikasi pencatatan keuangan yang lebih modern",
+            "score": 2
+        },
+        {
+            "text": "Mengeksplorasi beberapa perangkat yang sudah populer di kalangan bendahara",
+            "score": 4
+        },
+        {
+            "text": "Mencukupkan diri untuk mencatat setiap anggaran keluar masuk dengan cara seperti biasanya",
+            "score": 1
+        }
+        ],
+        "explanation": "<b>Jawaban: Menggunakan aplikasi terkini untuk menyelesaikan pekerjaan di semua lini</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Menggunakan aplikasi terkini untuk menyelesaikan pekerjaan di semua lini.</li><li><b>Poin 4:</b> Mengeksplorasi beberapa perangkat yang sudah populer di kalangan bendahara.</li><li><b>Poin 3:</b> Menggunakan aplikasi yang telah modern untuk membantu pekerjaan ketika berada dalam sebuah tim.</li><li><b>Poin 2:</b> Mencoba mempelajari aplikasi pencatatan keuangan yang lebih modern.</li><li><b>Poin 1:</b> Mencukupkan diri untuk mencatat setiap anggaran keluar masuk dengan cara seperti biasanya.</li></ul>"
+    },
+    {
+        "q": "Supaya dapat mengikuti perkembangan TI terkini, kantor menetapkan bahwa beberapa pekerjaan dilakukan menggunakan aplikasi terbaru. Sebagai pegawai di kantor tersebut, apa yang Rio lakukan?",
+        "opts": [
+        {
+            "text": "Melakukan pekerjaan dengan cara lama karena merasa tidak memiliki kendala apa pun",
+            "score": 1
+        },
+        {
+            "text": "Karena sudah ditetapkan kantor, Rio berupaya mempelajari hal-hal dasar dari aplikasi terbaru itu",
+            "score": 4
+        },
+        {
+            "text": "Mencoba program aplikasi lain yang mendukung pekerjaan sesuai dengan saran rekan lain yang sudah berpengalaman",
+            "score": 2
+        },
+        {
+            "text": "Memperbarui perangkat digital agar semakin berpengalaman dalam mengoperasikan aplikasi terbaru",
+            "score": 3
+        },
+        {
+            "text": "Mengeksplorasi pengembangan aplikasi terbaru dan aplikasi lain yang akan mendukung performa kerja",
+            "score": 5
+        }
+        ],
+        "explanation": "<b>Jawaban: Mengeksplorasi pengembangan aplikasi terbaru dan aplikasi lain yang akan mendukung performa kerja</b><br><br><b>Pembahasan Distribusi Poin:</b><br><ul><li><b>Poin 5:</b> Mengeksplorasi pengembangan aplikasi terbaru dan aplikasi lain yang akan mendukung performa kerja.</li><li><b>Poin 4:</b> Karena sudah ditetapkan kantor, Rio berupaya mempelajari hal-hal dasar dari aplikasi terbaru itu.</li><li><b>Poin 3:</b> Memperbarui perangkat digital agar semakin berpengalaman dalam mengoperasikan aplikasi terbaru.</li><li><b>Poin 2:</b> Mencoba program aplikasi lain yang mendukung pekerjaan sesuai dengan saran rekan lain yang sudah berpengalaman.</li><li><b>Poin 1:</b> Melakukan pekerjaan dengan cara lama karena merasa tidak memiliki kendala apa pun.</li></ul>"
+    }
+]

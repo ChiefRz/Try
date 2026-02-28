@@ -10,8 +10,11 @@ const examCatalog = [
   { id: "twk_bln_2", type: "TWK", title: "TWK - BELA NEGARA 2", desc: "Tes Wawasan Kebangsaan - Bela Negara 2", file: "twk_bln_2.json", time: 15, q_count: 10 },
   { id: "twk_pnr_1", type: "TWK", title: "TWK - PILAR NEGARA 1", desc: "Tes Wawasan Kebangsaan - Pilar Negara 1", file: "twk_pnr_1.json", time: 15, q_count: 10 },
   { id: "twk_pnr_2", type: "TWK", title: "TWK - PILAR NEGARA 2", desc: "Tes Wawasan Kebangsaan - Pilar Negara 2", file: "twk_pnr_2.json", time: 15, q_count: 10 },
-  { id: "tiu_ana_1", type: "TIU", title: "TIU - ANALOGI 1", desc: "Tes Intelegensia Umum - Analogi 1", file: "tiu_ana_1.json", time: 15, q_count: 5 },
-  { id: "tkp_1", type: "TKP", title: "TKP - PELAYANAN 1", desc: "Tes Karakteristik Pribadi - Pelayanan Publik 1", file: "tkp_1.json", time: 15, q_count: 10 },
+  { id: "tiu_ana_1", type: "TIU", title: "TIU - ANALOGI 1", desc: "Tes Intelegensia Umum - Analogi 1", file: "tiu_ana_1.json", time: 15, q_count: 10 },
+  { id: "tkp_plb_1", type: "TKP", title: "TKP - PELAYANAN PUBLIK 1", desc: "Tes Karakteristik Pribadi - Pelayanan Publik 1", file: "tkp_plb_1.json", time: 15, q_count: 10 },
+  { id: "tkp_jjk_1", type: "TKP", title: "TKP - JEJARING KERJA 1", desc: "Tes Karakteristik Pribadi - Jejaring Kerja 1", file: "tkp_jjk_1.json", time: 15, q_count: 10 },
+  { id: "tkp_sbd_1", type: "TKP", title: "TKP - SOSIAL BUDAYA 1", desc: "Tes Karakteristik Pribadi - Sosial Budaya 1", file: "tkp_sbd_1.json", time: 15, q_count: 10 },
+  { id: "tkp_tik_1", type: "TKP", title: "TKP - TEKNOLOGI INFORMASI 1", desc: "Tes Karakteristik Pribadi - Teknologi Informasi 1", file: "tkp_tik_1.json", time: 15, q_count: 10 },
 ];
 
 export default function LandingPage({ startExam }) {

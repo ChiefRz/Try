@@ -1,0 +1,262 @@
+[
+    {
+        "q": "Cahaya sedang berada di ruangan dosen dan bersiap untuk mengajar, lalu masuklah orang tua mahasiswa ingin bertemu dengan ketua program studi untuk membicarakan kemajuan anaknya selama studi, tetapi ketua prodi sedang tidak ada di ruangan. Apa yang sebaiknya Cahaya lakukan?",
+        "opts": [
+            {
+                "text": "Mempersilahkan orang tua siswa tersebut untuk duduk",
+                "score": 3
+            },
+            {
+                "text": "Mengatakan pada orang tua tersebut tidak tahu keberadaan ketua prodi",
+                "score": 1
+            },
+            {
+                "text": "Menanyakan kepada pegawai keberadaan ketua prodi lalu menginfokan kepada orang tua",
+                "score": 4
+            },
+            {
+                "text": "Mengarahkan orang tua mahasiswa untuk bertanya kepada pegawai",
+                "score": 2
+            },
+            {
+                "text": "Menanyakan keperluan orang tua tersebut sambil menghubungi ketua prodi",
+                "score": 5
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Pelayanan Publik</b> dan <b>Profesionalisme</b>. Sebagai rekan sejawat di lingkungan institusi pendidikan, Cahaya diharapkan mampu memberikan solusi yang efektif bagi tamu (orang tua mahasiswa).<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Menanyakan keperluan orang tua tersebut sambil menghubungi ketua prodi (Poin 5).</b> Ini adalah tindakan yang paling proaktif. Cahaya menunjukkan empati dengan menanyakan keperluan dan memberikan kepastian dengan mencoba menghubungi pihak terkait secara langsung.<br>2. <b>Menanyakan kepada pegawai keberadaan ketua prodi lalu menginfokan kepada orang tua (Poin 4).</b> Tindakan ini cukup baik karena Cahaya berusaha mencari informasi, namun masih kalah efektif dibandingkan menghubungi langsung.<br>3. <b>Mempersilahkan orang tua siswa tersebut untuk duduk (Poin 3).</b> Tindakan ini sopan secara etika, namun tidak menyelesaikan masalah utama tamu (ketiadaan Ketua Prodi).<br>4. <b>Mengarahkan orang tua mahasiswa untuk bertanya kepada pegawai (Poin 2).</b> Kurang menunjukkan inisiatif membantu karena seolah-olah melempar tanggung jawab kepada orang lain.<br>5. <b>Mengatakan pada orang tua tersebut tidak tahu keberadaan ketua prodi (Poin 1).</b> Ini adalah respon yang pasif dan tidak memberikan bantuan sama sekali.<br><br><b>Jawaban dengan poin tertinggi adalah: Menanyakan keperluan orang tua tersebut sambil menghubungi ketua prodi.</b>"
+    },
+    {
+        "q": "Sebagai pembimbing tesis, Tina mengingatkan Heru untuk menggunakan sumber acuan yang kredibel. Heru tidak menanggapi masukan Tina karena sudah malas dan ingin cepat sidang. Apa yang sebaiknya Tina lakukan?",
+        "opts": [
+            {
+                "text": "Memikirkan alasan dibalik ketidakbersediaan Heru untuk melakukan mencari sumber acuan",
+                "score": 3
+            },
+            {
+                "text": "Tidak peduli dengan tanggapan Heru karena sebagai dosen sudah mengingatkan",
+                "score": 1
+            },
+            {
+                "text": "Memberi jawaban yang tepat, lalu menanyakan pemahaman Heru",
+                "score": 4
+            },
+            {
+                "text": "Menanggapi secara serius tanggapan Heru dan mencari cara untuk mengubah pikiran Heru",
+                "score": 5
+            },
+            {
+                "text": "Mendengarkan dan memikirkan tanggapan Heru",
+                "score": 2
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Profesionalisme</b> dan <b>Tanggung Jawab</b> sebagai pembimbing. Seorang dosen pembimbing tidak hanya bertugas memberi arahan teknis, tetapi juga memastikan kualitas akademis tetap terjaga meskipun mahasiswa mengalami penurunan motivasi.<br><br><b>Analisis Pilihan Jawaban:</b><br>1. <b>Menanggapi secara serius tanggapan Heru dan mencari cara untuk mengubah pikiran Heru (Poin 5).</b> Ini adalah tindakan paling tepat. Tina menunjukkan integritas akademis dengan tidak membiarkan Heru menggunakan sumber tidak kredibel, sekaligus menunjukkan peran aktif pembimbing untuk membujuk mahasiswa kembali ke jalur yang benar.<br>2. <b>Memberi jawaban yang tepat, lalu menanyakan pemahaman Heru (Poin 4).</b> Tindakan ini cukup baik karena fokus pada pemahaman materi, namun kurang menyentuh masalah sikap (sikap malas/ingin cepat sidang) yang sedang dialami Heru.<br>3. <b>Memikirkan alasan dibalik ketidakbersediaan Heru untuk mencari sumber acuan (Poin 3).</b> Menunjukkan empati, namun hanya berhenti pada tahap pemikiran tanpa ada tindakan konkret untuk menyelesaikan masalah kualitas tesis tersebut.<br>4. <b>Mendengarkan dan memikirkan tanggapan Heru (Poin 2).</b> Bersifat pasif. Mendengarkan saja tidak cukup jika hasil akhirnya adalah kualitas penelitian yang buruk karena sumber tidak kredibel.<br>5. <b>Tidak peduli dengan tanggapan Heru karena sebagai dosen sudah mengingatkan (Poin 1).</b> Ini adalah sikap yang tidak bertanggung jawab dan abai terhadap kualitas lulusan serta tugas sebagai pembimbing.<br><br><b>Jawaban dengan poin tertinggi adalah: Menanggapi secara serius tanggapan Heru dan mencari cara untuk mengubah pikiran Heru.</b>"
+    },
+    {
+        "q": "Ketika Arya sedang terburu-buru menyelesaikan laporan, seorang rekannya memina tolong untuk diantar ke dokter karena sakit lambung sehingga tidak bisa berjalan. Apa yang sebaiknya dilakukan Arya?",
+        "opts": [
+            {
+                "text": "Minta maaf karena sedang sibuk sehingga tidak bisa mengantar ke dokter",
+                "score": 1
+            },
+            {
+                "text": "Mencarikan orang yang bisa membantu mengantarkan rekannya ke dokter terdekat",
+                "score": 5
+            },
+            {
+                "text": "Meminta kepada atasan untuk menunda pengumpulan tugas karena ada situasi mendesak dengan kerja",
+                "score": 3
+            },
+            {
+                "text": "Meminta rekannya untuk menunggu sebentar dengan suara keras",
+                "score": 2
+            },
+            {
+                "text": "Mencari cara tercepat untuk bisa segera mengantarkan rekan tersebut ke dokter sambil menghubungi rumah sakit",
+                "score": 4
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Sosial Budaya (Kepedulian)</b> dan <b>Profesionalisme</b>. Kuncinya adalah mencari solusi yang menyeimbangkan antara tanggung jawab pekerjaan dan kepedulian terhadap situasi darurat orang lain.<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Mencarikan orang yang bisa membantu mengantarkan rekannya ke dokter terdekat (Poin 5).</b> Ini adalah solusi paling efektif (<i>win-win solution</i>). Rekan tetap tertolong dengan cepat oleh bantuan orang lain, sementara Arya tetap bisa menjaga profesionalismenya dalam menyelesaikan laporan tepat waktu.<br>2. <b>Mencari cara tercepat untuk bisa segera mengantarkan rekan tersebut ke dokter sambil menghubungi rumah sakit (Poin 4).</b> Tindakan ini sangat mulia dan peduli, namun dari sudut pandang profesionalisme pekerjaan, laporan Arya bisa terbengkalai.<br>3. <b>Meminta kepada atasan untuk menunda pengumpulan tugas karena ada situasi mendesak (Poin 3).</b> Menunjukkan kejujuran dan kepedulian, namun menunda tugas utama perusahaan tetap memiliki nilai profesionalisme yang lebih rendah dibanding mencari bantuan alternatif.<br>4. <b>Meminta rekannya untuk menunggu sebentar dengan suara keras (Poin 2).</b> Tindakan ini buruk karena tidak memiliki empati (berteriak pada orang sakit) dan membiarkan rekan menderita lebih lama.<br>5. <b>Minta maaf karena sedang sibuk sehingga tidak bisa mengantar ke dokter (Poin 1).</b> Ini adalah sikap yang sangat egois dan tidak menunjukkan nilai kepedulian sosial sebagai bagian dari tim kerja.<br><br><b>Jawaban dengan poin tertinggi adalah: Mencarikan orang yang bisa membantu mengantarkan rekannya ke dokter terdekat.</b>"
+    },
+    {
+        "q": "Setelah seorang penyewa kostum meninggalkan tempat, Anggi yang pada saat itu bertugas baru tahu bahwa baju yang dikembalikan dalam keadaan rusak. Persewaan tersebut punya aturan bahwa petugas yang lengah harus mengganti kerugiannya. Padahal Anggi sedang kesulitan keuangan. Apa tindakan yang sebaiknya dilakukan Anggi?",
+        "opts": [
+            {
+                "text": "Menuntut penyewa untuk bertanggungjawab dan membayar biaya perbaikan kerusakan",
+                "score": 1
+            },
+            {
+                "text": "Menjelaskan kepada penyewa bahwa Anggi harus menanggung kerugian dengan uang pribadinya",
+                "score": 2
+            },
+            {
+                "text": "Menjelaskan kronologi peristiwa kepada atasan dan memohon pemakluman",
+                "score": 5
+            },
+            {
+                "text": "Menawarkan kemungkinan alternatif solusi kepada penyewa agar kerugian yang ia tanggung tidak terlalu besar",
+                "score": 3
+            },
+            {
+                "text": "Meminta maaf atas kekurang jeliannnya dalam mengecek baju yang dikembalikan dan berharap penyewa mengerti",
+                "score": 4
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Integritas</b>, <b>Kejujuran</b>, dan <b>Tanggung Jawab</b> terhadap aturan instansi. Kuncinya adalah mengakui kelalaian kepada otoritas yang lebih tinggi (atasan) daripada melakukan tindakan di luar prosedur kepada pelanggan setelah transaksi selesai.<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Menjelaskan kronologi peristiwa kepada atasan dan memohon pemakluman (Poin 5).</b> Ini adalah sikap paling jujur dan profesional. Dengan melapor, Anggi menunjukkan integritas. Memohon pemakluman adalah hak karyawan jika ada kendala (seperti masalah keuangan), namun keputusan tetap di tangan atasan sesuai aturan.<br>2. <b>Meminta maaf atas kekurang jeliannnya dalam mengecek baju yang dikembalikan dan berharap penyewa mengerti (Poin 4).</b> Menunjukkan keberanian mengakui kesalahan kepada pelanggan, namun secara prosedural, masalah internal (ganti rugi) tetap harus diselesaikan dengan manajemen.<br>3. <b>Menawarkan kemungkinan alternatif solusi kepada penyewa agar kerugian yang ia tanggung tidak terlalu besar (Poin 3).</b> Berusaha mencari jalan tengah, namun tindakan ini berisiko karena penyewa sudah meninggalkan tempat dan kesepakatan awal mungkin sudah selesai.<br>4. <b>Menjelaskan kepada penyewa bahwa Anggi harus menanggung kerugian dengan uang pribadinya (Poin 2).</b> Tindakan ini terkesan menarik simpati atau 'curhat' kepada pelanggan, yang kurang profesional dalam dunia kerja.<br>5. <b>Menuntut penyewa untuk bertanggungjawab dan membayar biaya perbaikan kerusakan (Poin 1).</b> Sangat tidak disarankan karena kesalahan awal ada pada Anggi yang tidak mengecek di tempat (lengah). Menuntut secara sepihak setelah pelanggan pergi dapat merusak citra instansi.<br><br><b>Jawaban dengan poin tertinggi adalah: Menjelaskan kronologi peristiwa kepada atasan dan memohon pemakluman.</b>"
+    },
+    {
+        "q": "Sebagai ketua acara kemahasiswaan, seorang dosen memberikan teguran keras kepada Riana karena hiburan di acara tersebut dianggap kurang sesuai dengan nilai budaya Indonesia. Teguran tersebut diberikan di depan umum sehingga banyak orang yang melihat. Apa yang perlu dilakukan Riana?",
+        "opts": [
+            {
+                "text": "Menyakinkan dosen bahwa ia dapat mempertangungjawabkan dan memperbaiki acara tersebut",
+                "score": 4
+            },
+            {
+                "text": "Meminta maaf dan menjanjikan akan mencatat masukan tersebut sebagai evaluasi",
+                "score": 5
+            },
+            {
+                "text": "Meminta agar bisa membicarakan hal tersebut ditempat lain yang lebih tenang",
+                "score": 3
+            },
+            {
+                "text": "Diam dan menerima teguran yang diberikan kepadanya",
+                "score": 2
+            },
+            {
+                "text": "Menyangkal teguran dosen karena dipermalukan di depan banyak orang",
+                "score": 1
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Pengendalian Diri</b> dan <b>Semangat Berprestasi</b>. Sebagai seorang pemimpin (ketua acara), Riana harus mampu menyikapi kritik secara dewasa meskipun disampaikan di depan umum, tanpa bersikap defensif atau emosional.<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Meminta maaf dan menjanjikan akan mencatat masukan tersebut sebagai evaluasi (Poin 5).</b> Ini adalah respon terbaik karena menunjukkan kerendahan hati untuk mengakui kesalahan dan sikap profesional dengan menjadikan teguran sebagai bahan perbaikan (evaluasi).<br>2. <b>Menyakinkan dosen bahwa ia dapat mempertangungjawabkan dan memperbaiki acara tersebut (Poin 4).</b> Tindakan ini menunjukkan tanggung jawab yang besar, namun poinnya sedikit di bawah pilihan B karena tidak secara eksplisit menunjukkan sikap menerima masukan/evaluasi.<br>3. <b>Meminta agar bisa membicarakan hal tersebut ditempat lain yang lebih tenang (Poin 3).</b> Respon ini cukup logis untuk menjaga privasi, namun bisa dianggap sebagai upaya menghindari teguran di saat situasi sedang berlangsung.<br>4. <b>Diam dan menerima teguran yang diberikan kepadanya (Poin 2).</b> Sikap pasif. Meskipun tidak membantah, diam saja tidak memberikan solusi atau komitmen untuk perbaikan acara ke depannya.<br>5. <b>Menyangkal teguran dosen karena dipermalukan di depan banyak orang (Poin 1).</b> Ini adalah sikap paling buruk. Mengedepankan ego dan menyangkal kesalahan hanya akan memperburuk situasi dan merusak citra profesionalitas.<br><br><b>Jawaban dengan poin tertinggi adalah: Meminta maaf dan menjanjikan akan mencatat masukan tersebut sebagai evaluasi.</b>"
+    },
+    {
+        "q": "Tina bekerja di gerai makanan. Hari ini Tina berencana segera pulang ke rumah sebelum hujan semakin deras. Ketika Tina sedang bersiap-siap menutup gerai, seorang pelanggan datang dan duduk di tempat yang disediakan. Apa yang dilakukan Tina?",
+        "opts": [
+            {
+                "text": "Melayani pelanggan dengan ramah karena bagaimanapun pelanggan adalah raja",
+                "score": 3
+            },
+            {
+                "text": "Melayani pelanggan dengan kurang bersemangat karena ia tidak bisa segera pulang",
+                "score": 1
+            },
+            {
+                "text": "Melayani dengan sopan dan menawarkan menu makanan yang masih tersedia",
+                "score": 5
+            },
+            {
+                "text": "Mendekati pelanggan ketika ia memanggil Tina untuk memesan makanan",
+                "score": 2
+            },
+            {
+                "text": "Melayani dengan ramah dan segera memberikan daftar menu sebelum diminta",
+                "score": 4
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Pelayanan Publik</b> dan <b>Inisiatif</b>. Dalam situasi operasional gerai yang hampir tutup, seorang petugas harus tetap profesional namun juga harus memberikan informasi yang jelas mengenai keterbatasan ketersediaan menu agar tidak terjadi kekecewaan pelanggan di akhir.<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Melayani dengan sopan dan menawarkan menu makanan yang masih tersedia (Poin 5).</b> Ini adalah jawaban paling tepat karena bersifat realistis dan solutif. Melayani dengan sopan menjaga citra gerai, dan menginfokan menu yang 'masih tersedia' memberikan batasan yang jelas bahwa gerai memang akan segera tutup sehingga proses pelayanan bisa lebih cepat.<br>2. <b>Melayani dengan ramah dan segera memberikan daftar menu sebelum diminta (Poin 4).</b> Menunjukkan inisiatif yang baik dalam pelayanan, namun kurang efektif dibanding pilihan C karena tidak memberikan informasi ketersediaan stok di akhir jam operasional.<br>3. <b>Melayani pelanggan dengan ramah karena bagaimanapun pelanggan adalah raja (Poin 3).</b> Prinsip yang baik secara umum, namun kurang taktis dalam menghadapi situasi teknis gerai yang akan segera tutup.<br>4. <b>Mendekati pelanggan ketika ia memanggil Tina untuk memesan makanan (Poin 2).</b> Bersifat pasif. Petugas seharusnya proaktif menyapa pelanggan yang sudah duduk, bukan menunggu dipanggil.<br>5. <b>Melayani pelanggan dengan kurang bersemangat karena ia tidak bisa segera pulang (Poin 1).</b> Menunjukkan sikap tidak profesional karena mencampuradukkan urusan pribadi (ingin pulang) dengan kewajiban melayani pelanggan.<br><br><b>Jawaban dengan poin tertinggi adalah: Melayani dengan sopan dan menawarkan menu makanan yang masih tersedia.</b>"
+    },
+    {
+        "q": "Haris mendapat pesan melalui telepon genggam berisi cacian terhadap instansi tempat Haris bekerja karena dianggap terlalu komersial dan memiliki pelayanan yang buruk. Padahal Haris sedang mengerjakan tugasnya di bagian keuangan dan harus segera melaporkan tugas itu. Apa yang sebaiknya dilakukan Haris?",
+        "opts": [
+            {
+                "text": "Membalas pesan tersebut dengan keras karena tidak sopan dan mengannggu konsentrasi kerjanya",
+                "score": 1
+            },
+            {
+                "text": "Menghapus pesan tersebut karena membuat kesal dan segera fokus pada tugas utama",
+                "score": 2
+            },
+            {
+                "text": "Menyampaikan keluhan kepada bagian terkait dengan tidak menunjukan pesan kasar tersebut",
+                "score": 3
+            },
+            {
+                "text": "Membalas pesan tersebut untuk berterima kasih karena sudah menghubunginya",
+                "score": 4
+            },
+            {
+                "text": "Membalas pesan dengan sopan dan mengajak pengirim untuk berdiskusi langsung dengan bagian pengaduan",
+                "score": 5
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Pelayanan Publik</b> dan <b>Kemampuan Mengendalikan Diri</b>. Sebagai representasi instansi, seorang karyawan harus tetap tenang dan mengarahkan keluhan pelanggan ke saluran yang tepat, meskipun keluhan tersebut disampaikan dengan cara yang kurang sopan.<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Membalas pesan dengan sopan dan mengajak pengirim untuk berdiskusi langsung dengan bagian pengaduan (Poin 5).</b> Ini adalah respon terbaik. Haris tetap menunjukkan profesionalisme, tidak terpancing emosi, dan memberikan solusi konkret dengan mengarahkan pelanggan ke bagian yang berwenang (Customer Service/Pengaduan).<br>2. <b>Membalas pesan tersebut untuk berterima kasih karena sudah menghubunginya (Poin 4).</b> Menunjukkan sikap apresiatif terhadap masukan, namun kurang solutif karena tidak mengarahkan pelanggan ke tempat penyelesaian masalah yang tepat.<br>3. <b>Menyampaikan keluhan kepada bagian terkait dengan tidak menunjukan pesan kasar tersebut (Poin 3).</b> Menunjukkan kepedulian pada perbaikan instansi, namun membiarkan pesan pelanggan tanpa jawaban dapat dianggap sebagai pengabaian oleh pihak pengirim.<br>4. <b>Menghapus pesan tersebut karena membuat kesal dan segera fokus pada tugas utama (Poin 2).</b> Tindakan ini berfokus pada pekerjaan pribadi (keuangan), namun mengabaikan tanggung jawab sebagai bagian dari instansi dalam merespon publik.<br>5. <b>Membalas pesan tersebut dengan keras karena tidak sopan dan mengannggu konsentrasi kerjanya (Poin 1).</b> Ini adalah sikap yang sangat tidak profesional dan dapat memperburuk citra instansi di mata publik.<br><br><b>Jawaban dengan poin tertinggi adalah: Membalas pesan dengan sopan dan mengajak pengirim untuk berdiskusi langsung dengan bagian pengaduan.</b>"
+    },
+    {
+        "q": "Atasan Rusmi secara mendadak memintanya untuk lembur. Rusmi sudah berjanji kepada anaknya untuk pulang cepat. Saat lembur akan dimulai, atasan tiba-tiba harus rapat dan meminta Rusmi menunggunya untuk membahas pekerjaan yang harus diselesaikan. Apa yang sebaiknya dilakukan Rusmi?",
+        "opts": [
+            {
+                "text": "Ia meminta atasan menjelaskan secara singkat tentang tugas tersebut lalu segera mengerjakannya",
+                "score": 4
+            },
+            {
+                "text": "Ia menjelaskan dengan sopan bahwa ia tidak bisa menunggu terlalu lama karena sudah berjanji kepada anaknya",
+                "score": 3
+            },
+            {
+                "text": "Ia menjelaskan bahwa tidak bisa menunggu lama karena harus segera pulang",
+                "score": 1
+            },
+            {
+                "text": "Ia mencari-cari alasan lebih kuat untuk bisa segera pulang tanpa menunggu atasan lebih lama lagi",
+                "score": 2
+            },
+            {
+                "text": "Ia menawarkan untuk mengerjakan tugas yang diminta terlebih dahulu sambil menunggu atasan",
+                "score": 5
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Profesionalisme</b> dan <b>Inisiatif</b> dalam bekerja. Sebagai karyawan, Rusmi diharapkan mampu mengoptimalkan waktu tunggu agar produktivitas tetap terjaga tanpa mengabaikan instruksi atasan.<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Ia menawarkan untuk mengerjakan tugas yang diminta terlebih dahulu sambil menunggu atasan (Poin 5).</b> Ini adalah sikap paling proaktif. Rusmi menunjukkan niat untuk tetap produktif dengan mencicil pekerjaan yang sudah diketahui sambil menanti arahan lebih lanjut, sehingga waktu lembur menjadi efisien.<br>2. <b>Ia meminta atasan menjelaskan secara singkat tentang tugas tersebut lalu segera mengerjakannya (Poin 4).</b> Tindakan ini sangat efisien dan berorientasi pada hasil, namun sedikit di bawah poin E karena poin E menunjukkan kesediaan menunggu sesuai instruksi awal atasan.<br>3. <b>Ia menjelaskan dengan sopan bahwa ia tidak bisa menunggu terlalu lama karena sudah berjanji kepada anaknya (Poin 3).</b> Rusmi bersikap jujur dan sopan mengenai kendala pribadinya, namun kurang menunjukkan dedikasi terhadap tugas lembur yang sudah diminta.<br>4. <b>Ia mencari-cari alasan lebih kuat untuk bisa segera pulang tanpa menunggu atasan lebih lama lagi (Poin 2).</b> Tindakan ini menunjukkan kurangnya integritas dan profesionalisme karena mencoba menghindar dari tanggung jawab dengan alasan yang dibuat-buat.<br>5. <b>Ia menjelaskan bahwa tidak bisa menunggu lama karena harus segera pulang (Poin 1).</b> Ini adalah respon yang kaku dan kurang menghargai otoritas atasan serta kepentingan organisasi.<br><br><b>Jawaban dengan poin tertinggi adalah: Ia menawarkan untuk mengerjakan tugas yang diminta terlebih dahulu sambil menunggu atasan.</b>"
+    },
+    {
+        "q": "Kartika bertugas memberi stempel pada setumpuk dokumen. Saat menyerahkan dokumen kepada pimpinan, ternyata ada satu halaman yang belum distempel sedangkan dokumen harus segera dikirim. Apa yang dilakukan Kartika?",
+        "opts": [
+            {
+                "text": "Menyisipkan dokumen yang belum distempel di tengah tumpukan",
+                "score": 1
+            },
+            {
+                "text": "Memperbaiki sambil memeriksa kelengkapan dokumen",
+                "score": 4
+            },
+            {
+                "text": "Mengambil stempel dan segera melengkapi yang kurang",
+                "score": 5
+            },
+            {
+                "text": "Merasa khawatir karena hal ini bisa menimbulkan masalah",
+                "score": 2
+            },
+            {
+                "text": "Menyampaikan kekhawatiran pada pimpinan dengan sopan",
+                "score": 3
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Profesionalisme</b> dan <b>Kecepatan Bertindak (Decisiveness)</b>. Dalam situasi mendesak di mana dokumen harus segera dikirim, seorang karyawan diharapkan mampu memberikan solusi instan daripada sekadar merasa cemas atau melaporkan masalah tanpa tindakan.<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Mengambil stempel dan segera melengkapi yang kurang (Poin 5).</b> Ini adalah tindakan paling taktis dan solutif. Kartika langsung memperbaiki kesalahan pada saat itu juga agar dokumen siap dikirim tepat waktu tanpa menunda proses.<br>2. <b>Memperbaiki sambil memeriksa kelengkapan dokumen (Poin 4).</b> Tindakan ini sangat teliti dan baik, namun dalam konteks 'harus segera dikirim', kecepatan pada pilihan C sedikit lebih diutamakan daripada melakukan audit ulang menyeluruh yang memakan waktu lama.<br>3. <b>Menyampaikan kekhawatiran pada pimpinan dengan sopan (Poin 3).</b> Menunjukkan kejujuran dan etika, namun kurang menunjukkan inisiatif untuk langsung menyelesaikan masalah teknis yang ada.<br>4. <b>Merasa khawatir karena hal ini bisa menimbulkan masalah (Poin 2).</b> Respon emosional yang pasif. Khawatir tidak akan menyelesaikan pekerjaan dan justru menghambat produktivitas.<br>5. <b>Menyisipkan dokumen yang belum distempel di tengah tumpukan (Poin 1).</b> Ini adalah tindakan yang tidak berintegritas dan tidak bertanggung jawab karena mencoba menyembunyikan kesalahan yang dapat merugikan instansi di kemudian hari.<br><br><b>Jawaban dengan poin tertinggi adalah: Mengambil stempel dan segera melengkapi yang kurang.</b>"
+    },
+    {
+        "q": "Ridwan seorang petugas maskapai penerbangan di pintu keberangkatan, melihat bapak tua bersama anak muda yang nampak bingung dan hendak bertanya kepadanya. Namun, saat itu sudah waktunya Ridwan memeriksa dokumen penumpang yang akan masuk ke pesawat. Apa yang sebaiknya Ridwan lakukan?",
+        "opts": [
+            {
+                "text": "Meminta anak muda tersebut untuk bertanya kepada petugas informasi",
+                "score": 2
+            },
+            {
+                "text": "Meminta teman untuk mengulang informasi dengan keras agar mereka dengar",
+                "score": 1
+            },
+            {
+                "text": "Menanyakan kebutuhan mereka sambil memeriksa dokumen penumpang",
+                "score": 5
+            },
+            {
+                "text": "Menawarkan bantuan untuk mengatasi masalah mereka",
+                "score": 3
+            },
+            {
+                "text": "Membantu memenuhi kebutuhannya sampai mereka nyaman",
+                "score": 4
+            }
+        ],
+        "explanation": "Soal ini menguji aspek <b>Pelayanan Publik</b> dan <b>Profesionalisme</b>. Sebagai petugas, Ridwan dituntut untuk tetap peduli terhadap pelanggan (bapak tua dan anak muda) tanpa mengabaikan tugas utamanya (memeriksa dokumen) yang terikat waktu keberangkatan pesawat.<br><br><b>Analisis Poin Jawaban:</b><br>1. <b>Menanyakan kebutuhan mereka sambil memeriksa dokumen penumpang (Poin 5).</b> Ini adalah tindakan yang paling efisien (<i>multitasking</i>). Ridwan menjalankan kewajiban utamanya tepat waktu, namun tetap memberikan perhatian dan bantuan kepada orang yang membutuhkan informasi secara simultan.<br>2. <b>Membantu memenuhi kebutuhannya sampai mereka nyaman (Poin 4).</b> Menunjukkan empati yang luar biasa tinggi, namun berisiko menghambat proses <i>boarding</i> penumpang lain yang juga merupakan tanggung jawab profesionalnya.<br>3. <b>Menawarkan bantuan untuk mengatasi masalah mereka (Poin 3).</b> Menunjukkan niat baik untuk membantu, namun kurang spesifik dalam hal manajemen waktu pengerjaan tugas utama yang sedang mendesak.<br>4. <b>Meminta anak muda tersebut untuk bertanya kepada petugas informasi (Poin 2).</b> Tindakan ini kurang proaktif dan cenderung melempar tanggung jawab, meskipun secara prosedural petugas informasi memang ada.<br>5. <b>Meminta teman untuk mengulang informasi dengan keras agar mereka dengar (Poin 1).</b> Respon ini tidak sopan dan tidak menunjukkan sikap pelayanan yang personal serta tulus.<br><br><b>Jawaban dengan poin tertinggi adalah: Menanyakan kebutuhan mereka sambil memeriksa dokumen penumpang.</b>"
+    }
+]
