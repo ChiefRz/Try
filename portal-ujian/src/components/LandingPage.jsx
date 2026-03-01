@@ -23,6 +23,7 @@ const examCatalog = [
   { id: "tkp_jjk_1", type: "TKP", title: "TKP - JEJARING KERJA 1", desc: "Tes Karakteristik Pribadi - Jejaring Kerja 1", file: "tkp_jjk_1.json", time: 15, q_count: 10 },
   { id: "tkp_sbd_1", type: "TKP", title: "TKP - SOSIAL BUDAYA 1", desc: "Tes Karakteristik Pribadi - Sosial Budaya 1", file: "tkp_sbd_1.json", time: 15, q_count: 10 },
   { id: "tkp_tik_1", type: "TKP", title: "TKP - TEKNOLOGI INFORMASI 1", desc: "Tes Karakteristik Pribadi - Teknologi Informasi 1", file: "tkp_tik_1.json", time: 15, q_count: 10 },
+  { id: "to_skd_1", type: "TO_SKD", title: "TRY OUT SKD 1", desc: "Try Out SKD 1", file: "to_skd_1.json", time: 90, q_count: 110 },
 ];
 
 export default function LandingPage({ startExam }) {
