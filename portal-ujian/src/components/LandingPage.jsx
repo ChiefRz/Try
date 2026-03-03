@@ -13,6 +13,8 @@ const examCatalog = [
   { id: "twk_bhs_1", type: "TWK", title: "TWK - BAHASA INDONESIA 1", desc: "Tes Wawasan Kebangsaan - Bahasa Indonesia 1", file: "twk_bhs_1.json", time: 15, q_count: 10 },
   { id: "twk_bhs_2", type: "TWK", title: "TWK - BAHASA INDONESIA 2", desc: "Tes Wawasan Kebangsaan - Bahasa Indonesia 2", file: "twk_bhs_2.json", time: 15, q_count: 10 },
   { id: "twk_cmr_1", type: "TWK", title: "TWK - CAMPURAN 1", desc: "Tes Wawasan Kebangsaan - Campuran 1", file: "twk_cmr_1.json", time: 35, q_count: 30 },
+  { id: "twk_cmr_2", type: "TWK", title: "TWK - CAMPURAN 2", desc: "Tes Wawasan Kebangsaan - Campuran 2", file: "twk_cmr_2.json", time: 35, q_count: 30 },
+  { id: "twk_cmr_3", type: "TWK", title: "TWK - CAMPURAN 3", desc: "Tes Wawasan Kebangsaan - Campuran 3", file: "twk_cmr_3.json", time: 35, q_count: 30 },
   { id: "tiu_ana_1", type: "TIU", title: "TIU - ANALOGI 1", desc: "Tes Intelegensia Umum - Analogi 1", file: "tiu_ana_1.json", time: 15, q_count: 10 },
   { id: "tiu_ana_2", type: "TIU", title: "TIU - ANALOGI 2", desc: "Tes Intelegensia Umum - Analogi 2", file: "tiu_ana_2.json", time: 15, q_count: 10 },
   { id: "tiu_sil_1", type: "TIU", title: "TIU - SILOGISME 1", desc: "Tes Intelegensia Umum - Silogisme 1", file: "tiu_sil_1.json", time: 15, q_count: 10 },
@@ -62,6 +64,7 @@ export default function LandingPage({ startExam }) {
           <option value="TWK">TWK</option>
           <option value="TIU">TIU</option>
           <option value="TKP">TKP</option>
+          <option value="TO_SKD">Try Out SKD</option>
         </select>
       </div>
 

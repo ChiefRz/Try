@@ -12,16 +12,17 @@ export default function ResultPage({ examData, answers, resetApp }) {
   // Flag penentu apakah sistem passing grade diaktifkan (minimal 30 soal)
   const showPassingGrade = totalQ >= 30;
   
-  // Tentukan poin untuk jawaban benar pada TIU/TWK (10 jika < 30 soal, 5 jika >= 30)
+  // Tentukan poin untuk jawaban benar pada TIU/TWK/UMUM (10 jika < 30 soal, 5 jika >= 30)
   const correctScore = totalQ < 30 ? 10 : 5;
   
-  // Mengambil kategori unik yang ada di examData (misal: hanya ['TWK'] atau ['TWK', 'TIU', 'TKP'])
+  // [UPDATE] Berikan fallback 'UMUM' jika soal tidak memiliki kategori
   const presentCategories = Array.from(
-    new Set(examData.map((q) => (q.category || '').toUpperCase()))
-  ).filter(cat => cat === 'TWK' || cat === 'TIU' || cat === 'TKP');
+    new Set(examData.map((q) => (q.category || 'UMUM').toUpperCase()))
+  ).filter(cat => cat === 'TWK' || cat === 'TIU' || cat === 'TKP' || cat === 'UMUM');
 
   // 3. STATE & HITUNG SKOR PER KATEGORI
-  let scores = { TWK: 0, TIU: 0, TKP: 0 };
+  // [UPDATE] Tambahkan state untuk 'UMUM'
+  let scores = { TWK: 0, TIU: 0, TKP: 0, UMUM: 0 };
   let answeredCount = 0;
   let maxPossibleScore = 0; // Agar angka maksimal dinamis
 
@@ -29,7 +30,8 @@ export default function ResultPage({ examData, answers, resetApp }) {
     const userAns = answers[index];
     if (userAns !== undefined) answeredCount++;
 
-    const category = (qData.category || '').toUpperCase();
+    // [UPDATE] Gunakan fallback 'UMUM' jika category kosong
+    const category = (qData.category || 'UMUM').toUpperCase();
 
     if (category === 'TKP') {
       const points = userAns?.score || 0;
@@ -37,8 +39,8 @@ export default function ResultPage({ examData, answers, resetApp }) {
       
       const maxInQ = Math.max(...(qData.opts || []).map(o => o.score || 0));
       maxPossibleScore += maxInQ;
-    } else if (category === 'TWK' || category === 'TIU') {
-      // Menggunakan variabel correctScore (10 atau 5)
+    } else {
+      // [UPDATE] Menangani TWK, TIU, dan UMUM (Semua soal non-TKP)
       maxPossibleScore += correctScore; 
       
       const userAnsText = typeof userAns === 'object' ? userAns.text : userAns;
@@ -52,7 +54,8 @@ export default function ResultPage({ examData, answers, resetApp }) {
   const totalScore = presentCategories.reduce((total, cat) => total + scores[cat], 0);
 
   // 4. LOGIKA AMBANG BATAS DINAMIS
-  const PASSING_GRADES = { TWK: 65, TIU: 80, TKP: 166 };
+  // [UPDATE] Tambahkan UMUM dengan nilai 0 agar tidak error saat pengecekan passing grade
+  const PASSING_GRADES = { TWK: 65, TIU: 80, TKP: 166, UMUM: 0 };
   
   // Cek apakah user lulus SEMUA modul yang diujikan
   const isPassedAll = presentCategories.every(cat => scores[cat] >= PASSING_GRADES[cat]);
@@ -88,7 +91,7 @@ export default function ResultPage({ examData, answers, resetApp }) {
           <div className="bg-gray-50 rounded-xl p-6 inline-block w-full max-w-2xl border border-gray-200 shadow-sm mt-4">
             
             {/* BANNER STATUS KELULUSAN (Hanya Tampil Jika showPassingGrade TRUE) */}
-            {showPassingGrade && (
+            {showPassingGrade && presentCategories.some(cat => cat !== 'UMUM') && (
               <div className={`mb-6 py-3 px-4 rounded-lg border-2 font-bold text-lg ${
                 isPassedAll 
                   ? 'bg-green-100 border-green-500 text-green-700' 
@@ -112,25 +115,25 @@ export default function ResultPage({ examData, answers, resetApp }) {
                   const isPass = scores[cat] >= PASSING_GRADES[cat];
                   
                   // Penentuan gaya (style) jika menggunakan passing grade atau tidak
-                  const cardBorder = showPassingGrade 
+                  const cardBorder = showPassingGrade && cat !== 'UMUM'
                     ? (isPass ? 'border-green-400' : 'border-red-400') 
                     : 'border-gray-200';
                   
-                  const scoreColor = showPassingGrade 
+                  const scoreColor = showPassingGrade && cat !== 'UMUM'
                     ? (isPass ? 'text-green-600' : 'text-red-600') 
                     : 'text-gray-800';
 
                   return (
                     <div key={cat} className={`bg-white border-2 p-3 rounded-lg shadow-sm ${cardBorder}`}>
                       <p className="text-xs text-gray-500 font-bold mb-1">
-                        {cat} {showPassingGrade && `(Min: ${PASSING_GRADES[cat]})`}
+                        {cat} {showPassingGrade && cat !== 'UMUM' && `(Min: ${PASSING_GRADES[cat]})`}
                       </p>
                       <p className={`text-3xl font-bold ${scoreColor}`}>
                         {scores[cat]}
                       </p>
                       
-                      {/* Label Lulus/Gagal hanya muncul jika syarat totalQ >= 30 terpenuhi */}
-                      {showPassingGrade && (
+                      {/* Label Lulus/Gagal hanya muncul jika syarat terpenuhi dan bukan UMUM */}
+                      {showPassingGrade && cat !== 'UMUM' && (
                         <p className={`text-[10px] mt-1 font-semibold uppercase ${isPass ? 'text-green-700' : 'text-red-700'}`}>
                           {isPass ? '✅ Memenuhi' : '❌ Gagal'}
                         </p>
@@ -164,7 +167,8 @@ export default function ResultPage({ examData, answers, resetApp }) {
           {examData.map((qData, index) => {
             const userAns = answers[index];
             const isUnanswered = userAns === undefined;
-            const category = (qData.category || '').toUpperCase();
+            // [UPDATE] Konsistensi fallback 'UMUM' di pembahasan
+            const category = (qData.category || 'UMUM').toUpperCase();
             const isTKP = category === 'TKP';
             
             let iconContent, headerBadge, userAnsText, bgColorIcon;
